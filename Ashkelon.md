@@ -1,0 +1,1 @@
+- Ashkelon or Ashqelon, also known as Ascalon, is a coastal city in the Southern District of Israel on the Mediterranean coast, south of Tel Aviv, and north of the border with the Gaza Strip. The ancient seaport of Ashkelon dates back to the Neolithic Age. Recently it was in news due to ongoing violence between Israel and Palestine

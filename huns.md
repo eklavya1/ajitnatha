@@ -1,0 +1,20 @@
+---
+alias: [2022-06-02,19:20,,,,,,,,,,,]
+---
+[[ancient and medieval history c9]] [[gupta]] [[barbarian]] -- phonetic [[duarte barbosa]] [[operation barbarosa]]
+table of content
+```toc
+```
+
+[[2022-06-02]] 19:20
+- the huns were a nomadic people who lived in [[central asia]], the caucasus, and eastern europe between the 4th and [[6th century]] ad. according to european tradition, they were first reported living east of the volga river, in an area that was part of scythia at the time; the huns' arrival is associated with the migration westward of an iranian people, the alans. by 370 ad, the huns had arrived on the volga, and by 430 the huns had established a vast, if short-lived, dominion in europe, conquering the goths and many other germanic peoples living outside of roman borders, and causing many others to flee into roman territory. the huns, especially under their king attila, made frequent and devastating raids into the eastern roman empire. in 451, the huns invaded the western roman province of gaul, where they fought a combined army of romans and visigoths at the battle of the catalaunian fields, and in 452 they invaded italy. after the death of attila in 453, the huns ceased to be a major threat to rome and lost much of their empire following the battle of nedao (454?). descendants of the huns, or successors with similar names, are recorded by neighboring populations to the south, east, and west as having occupied parts of eastern europe and central asia from about the 4th to 6th centuries. variants of the hun name are recorded in the caucasus until the early 8th century.
+
+in the [[18th century]], french scholar joseph de guignes became the first to propose a link between the huns and the [[xiongnu]] people, who lived in northern china from the 3rd century bc to the late 1st century ad. since guignes' time, considerable scholarly effort has been devoted to investigating such a connection. the issue remains controversial. their relationships with other entities such as the iranian huns and the huna people of south asia have also been disputed.
+
+very little is known about hunnic culture and very few archaeological remains have been conclusively associated with the huns. they are believed to have used bronze cauldrons and to have performed artificial cranial deformation. no description exists of the hunnic religion of the time of attila, but practices such as divination are attested, and the existence of shamans likely. it is also known that the huns had a language of their own; however, only three words and personal names attest to it. economically, they are known to have practiced a form of nomadic pastoralism; as their contact with the roman world grew, their economy became increasingly tied with rome through tribute, raiding, and trade. they do not seem to have had a unified government when they entered europe, but rather to have developed a unified tribal leadership in the course of their wars with the romans. the huns ruled over a variety of peoples who spoke various languages and some of whom maintained their own rulers. their main military technique was mounted archery.
+
+the huns may have stimulated the great migration, a contributing factor in the collapse of the western roman empire. the memory of the huns also lived on in various christian saints' lives, where the huns play the roles of antagonists, as well as in germanic heroic legend, where the huns are variously antagonists or allies to the germanic main figures. in hungary, a legend developed based on medieval chronicles that the hungarians, and the székely ethnic group in particular, are descended from the huns. however, mainstream scholarship dismisses a close connection between the hungarians and huns. modern culture generally associates the huns with extreme cruelty and barbarism.
+[wikipedia](https://en.wikipedia.org/wiki/huns)
+```query
+"huns"
+```

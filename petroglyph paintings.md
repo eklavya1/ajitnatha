@@ -1,0 +1,10 @@
+- 02:04 PM 23/7/2021
+- ![[Pasted image 20210723140454.png]]
+- themes
+	- animal hunting
+	- gathering
+	- fighting scenes were drawn
+- color
+	- ochre
+	- red
+	- [![](https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Hellocker-_Pigment.JPG/220px-Hellocker-_Pigment.JPG)]

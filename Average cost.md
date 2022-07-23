@@ -1,0 +1,1 @@
+Total cost per unit of output.

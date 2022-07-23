@@ -1,0 +1,24 @@
+---
+alias: [2022-05-02,13:14,,,,,,,,,,,]
+---
+[[]]
+table of content
+```toc
+```
+
+[[2022-05-02]] 13:14
+- slow lorises are a group of several species of nocturnal strepsirrhine primates that make up the genus nycticebus. found in southeast asia and bordering areas, they range from [[bangladesh]] and [[northeast india]] in the west to the sulu archipelago in the [[philippines]] in the east, and from yunnan province in [[china]] in the north to the island of [[java]] in the south. although many previous classifications recognized as few as a single all-inclusive species, there are now at least eight that are considered valid: the sunda slow loris (n. coucang), bengal slow loris (n. bengalensis), pygmy slow loris (n. pygmaeus), javan slow loris (n. javanicus), philippine slow loris (n. menagensis), bangka slow loris (n. bancanus), bornean slow loris (n. borneanus), and kayan river slow loris (n. kayan). the group's closest relatives are the slender lorises of southern india and sri lanka. their next closest relatives are the african lorisids, the pottos, false pottos, and angwantibos. they are less closely related to the remaining lorisoids (the various types of galago), and more distantly to the lemurs of madagascar. their evolutionary history is uncertain since their fossil record is patchy and molecular clock studies have given inconsistent results.
+
+- slow lorises have a round head, a narrow snout, large eyes, and a variety of distinctive coloration patterns that are species-dependent. their arms and legs are nearly equal in length, and their torso is long and flexible, allowing them to twist and extend to nearby branches. the hands and feet of slow lorises have several adaptations that give them a pincer-like grip and enable them to grasp branches for long periods of time.  slow lorises have a toxic bite, a trait rare among mammals and unique among the primates.  the toxin is obtained by licking a sweat gland on their arm, and the secretion is activated by mixing with saliva. their toxic bite, once thought to be primarily a deterrent to predators, has been discovered to be primarily used in disputes within the species.
+
+the secretion from the arm contains a chemical related to cat allergen, but may be augmented by secondary toxins from the diet in wild individuals. slow lorises move slowly and deliberately, making little or no noise, and when threatened, they stop moving and remain motionless. their only documented predators—apart from humans—include snakes, changeable hawk-eagles and orangutans, although cats, viverrids and sun bears are suspected.
+
+little is known about their social structure, but they are known to communicate by scent marking. males are highly territorial. slow lorises reproduce slowly, and the infants are initially parked on branches or carried by either parent. they are omnivores, eating small animals, fruit, tree gum, and other vegetation.
+
+each of the slow loris species that had been identified prior to 2012 is listed as either "vulnerable" or "endangered" on the iucn red list. the three newest species are yet to be evaluated, but they arise from (and further reduce the ranks of) what was thought to be a single "vulnerable" species. all four of these are expected to be listed with at least the same, if not a higher-risk, conservation status. all slow lorises are threatened by the wildlife trade and habitat loss. their habitat is rapidly disappearing and becoming fragmented, making it nearly impossible for slow lorises to disperse between forest fragments; unsustainable demand from the exotic pet trade and from traditional medicine has been the greatest cause for their decline.
+
+deep-rooted beliefs about the supernatural powers of slow lorises, such as their purported abilities to ward off evil spirits or to cure wounds, have popularized their use in traditional medicine.  despite local laws prohibiting trade in slow lorises and slow loris products, as well as protection from international commercial trade under appendix i, slow lorises are openly sold in animal markets in southeast asia and smuggled to other countries, such as japan. due in part to the large eyes that are an adaptation to their nocturnal lifestyle, they have also been popularized as 'cute' pets in viral videos on youtube. slow lorises have their teeth cut or pulled out for the pet trade. they make poor pets as they are nocturnal, have specialized diets, are difficult to care for, and often die from infection, blood loss, improper caring and handling or inadequate nutrition.
+[wikipedia](https://en.wikipedia.org/wiki/slow%20loris)
+```query
+"slow loris"
+```

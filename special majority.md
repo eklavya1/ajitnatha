@@ -1,0 +1,1 @@
+- special majority means a resolution passed by two-thirds (2/3rds) of the valid votes cast by those present and entitled to vote.

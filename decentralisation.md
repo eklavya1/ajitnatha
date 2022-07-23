@@ -1,0 +1,5 @@
+- [[cyber]]
+
+```query
+"decentralisation"
+```

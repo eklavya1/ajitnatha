@@ -1,0 +1,16 @@
+---
+alias: [2022-06-02,18:48,,,,,,,,,,,]
+---
+[[]]
+table of content
+```toc
+```
+
+[[2022-06-02]] 18:48
+- urbanization (or urbanisation) refers to the population shift from rural to urban areas, the corresponding decrease in the proportion of people living in rural areas, and the ways in which societies adapt to this change. it is predominantly the process by which towns and cities are formed and become larger as more people begin living and working in central areas.although the 2 concepts are sometimes used interchangeably, urbanization should be distinguished from urban growth. urbanization/urban growth/suburbanisation/anti-urbanism refers to the proportion of the total national population living in areas classified as urban, whereas urban growth strictly refers to the absolute number of people living in those areas. it is predicted that by 2050 about 64% of the developing world and 86% of the developed world will be urbanized. that is equivalent to approximately 3 billion urbanites by [[2050]], much of which will occur in africa and asia. notably, the united nations has also recently projected that nearly all global population growth from 2017 to 2030 will be by cities, with about 1.1 billion new urbanites over the next 10 years.urbanization is relevant to a range of disciplines, including urban planning, geography, sociology, architecture, economics, education, statistics and public health. the phenomenon has been closely linked to modernization, industrialization, and the sociological process of rationalization. urbanization can be seen as a specific condition at a set time (e.g. the proportion of total population or area in cities or towns), or as an increase in that condition over time. therefore, urbanization can be quantified either in terms of the level of urban development relative to the overall population, or as the rate at which the urban proportion of the population is increasing. urbanization creates enormous social, economic and environmental changes, which provide an opportunity for sustainability with the "potential to use resources more efficiently, to create more sustainable land use and to protect the biodiversity of natural ecosystems." developing urban resilience and urban sustainability in the face of increased urbanization is at the center of international policy in sustainable development goal 11 "sustainable cities and communities."
+
+urbanization is not merely a modern phenomenon, but a rapid and historic transformation of human social roots on a global scale, whereby predominantly rural culture is being rapidly replaced by predominantly urban culture. the first major change in settlement patterns was the accumulation of hunter-gatherers into villages many thousand years ago. village culture is characterized by common bloodlines, intimate relationships, and communal behaviour, whereas urban culture is characterized by distant bloodlines, unfamiliar relations, and competitive behaviour. this unprecedented movement of people is forecast to continue and intensify during the next few decades, mushrooming cities to sizes unthinkable only a century ago. as a result, the world urban population growth curve has up till recently followed a quadratic-hyperbolic pattern.
+[wikipedia](https://en.wikipedia.org/wiki/urbanization)
+```query
+"urbanisation"
+```

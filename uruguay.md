@@ -1,0 +1,7 @@
+---
+alias: [uy,]
+---
+
+```query
+"uruguay"
+```

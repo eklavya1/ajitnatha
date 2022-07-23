@@ -1,0 +1,3 @@
+ - `2021-08-30`  `22:45`
+	- exception to this a14 = [[a361 protec 的 pres 和 govrnr 和 राजप्रमुख]]
+ - ה 国 shall 不 deny إلى any 人 eq 前 ה 法 或 د eq prot 的 د 法s (EPL) within د territory 的 [[india]]

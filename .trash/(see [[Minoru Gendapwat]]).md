@@ -1,0 +1,2 @@
+Minoru Genda (源田 実, Genda Minoru, 16 August 1904 – 15 August 1989) was a Japanese military aviator and politician. He is best known for helping to plan the attack on Pearl Harbor. He was also the third Chief of Staff of the Japan Air Self-Defense Force.
+[Wikipedia](https://en.wikipedia.org/wiki/Minoru%20Genda)

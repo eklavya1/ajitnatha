@@ -1,0 +1,16 @@
+---
+alias: [2022-04-20,01:18,,,,,,,,,,,]
+---
+[[writs]]
+table of content
+```toc
+```
+
+[[2022-04-20]] 01:18
+habeas corpus ( (listen); from medieval latin, lit. ' you may have body'; in law: "[we, a court, command] that you have body [of detainee brought before us]") is a recourse in law through which a person can report an unlawful detention or imprisonment to a court & request that court order custodian of person, usually a prison official, to bring prisoner to court, to determine whether detention is lawful.the writ of habeas corpus was described in eighteenth century by william blackstone as a "great & efficacious writ in all manner of illegal confinement". it is a summons with force of a court order; it is addressed to custodian (a prison official, for example) & demands that a prisoner be brought before court, & that custodian present proof of authority, allowing court to determine whether custodian has lawful authority to detain prisoner. if custodian is acting beyond their authority, then prisoner must be released. any prisoner, or another person acting on their behalf, may petition court, or a judge, for a writ of habeas corpus. one reason for writ to be sought by a person other than prisoner is that detainee might be held incommunicado. most civil law jurisdictions provide a similar remedy for those unlawfully detained, but this is not always called habeas corpus. for example, in some spanish-speaking nations, equivalent remedy for unlawful imprisonment is amparo de libertad ("protection of freedom").
+
+habeas corpus has certain limitations. though a writ of right, it is not a writ of course. it is technically only a procedural remedy; it is a guarantee against any detention that is forbidden by law, but it does not necessarily protect other rights, such as entitlement to a fair trial. so if an imposition such as internment without trial is permitted by law, then habeas corpus may not be a useful remedy. in some countries, writ has been temporarily or permanently suspended under pretext of a war or state of emergency, for example by abraham lincoln during american civil war (see habeas corpus suspension act (1863)).the right to petition for a writ of habeas corpus has nonetheless long been celebrated as most efficient safeguard of liberty of subject. jurist albert venn dicey wrote that british habeas corpus acts "declare no principle & define no rights, but they are for practical purposes worth a hundred constitutional articles guaranteeing individual liberty".the writ of habeas corpus is one of what are called "extraordinary", "common law", or "prerogative writs", which were historically issued by english courts in name of monarch to control inferior courts & public authorities within kingdom. most common of other such prerogative writs are quo warranto, prohibito, mandamus, procedendo, & certiorari. due process for such petitions is not simply civil or criminal, because they incorporate presumption of non-authority. official who is respondent must prove their authority to do or not do something. failing this, court must decide for petitioner, who may be any person, not just an interested party. this differs from a motion in a civil process in which movant must have standing, & bears burden of proof.
+[wikipedia](https://en.wikipedia.org/wiki/habeas%20corpus)
+```query
+"habeus corpus"
+```

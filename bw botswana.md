@@ -1,0 +1,3 @@
+- `2021-07-15`  `21:23`
+	- shoudu - [[gaborone]]
+	- ![[Pasted image 20210715212355.png]]

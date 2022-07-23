@@ -1,0 +1,3 @@
+- by chamberlain 和 moulton
+- 是 protostar PS 和 companion  星星  CS
+- when CS came near PS it led to د ejection 的 some 事情  من د PS-----> 这 evolved إلى planets

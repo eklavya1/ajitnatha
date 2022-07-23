@@ -1,0 +1,10 @@
+{
+  "theme": "obsidian",
+  "baseFontSize": 10,
+  "translucency": false,
+  "cssTheme": "Cybertron - wo de updates",
+  "enabledCssSnippets": [
+    "status bar",
+    "progress var vault launch css"
+  ]
+}

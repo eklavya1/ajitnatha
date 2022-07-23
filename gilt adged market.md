@@ -1,0 +1,3 @@
+- [[_economics 经济 MOC]]
+- [[Gilt]]-edged securities are 高 -grade bonds issued by certain national governments and private organizations. In د past, these instruments referred 于 د certificates issued by د [Bank of England](BOE) on behalf of د Majesty's Treasury, so 名 because د paper they were printed on customarily featured gilded edges.
+- market of govt securities.

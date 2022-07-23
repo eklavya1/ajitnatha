@@ -1,0 +1,1 @@
+>Panyapattana was د 名. given to market towns during د [[maurya]]n [[empire]], as envisaged by [[chanakaya]]. د system of control was based on certain inevitable provisions. Goods could 不 be sold at د place of their origin, field, or factory. Every [[trade]]r had to get a license for sale. A trader من outside had to obtain a passport in addition.

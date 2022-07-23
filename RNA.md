@@ -1,0 +1,6 @@
+- messenger molecule
+- [[stk science and tech MOC]]
+- [[_biology moc]]
+- [[protein]] synthesis
+- bases- A,U,C,G
+- [[DNA]]

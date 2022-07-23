@@ -1,0 +1,72 @@
+---
+alias: [,]
+---
+- mother note (if any)
+		- [[]] [[]]
+- related note (if any) -
+		- [[c12 economics macro ncert tk]]
+- `contemporary events`
+	- [[]]
+	- [[]]
+	- [[]]
+	- [[]]
+	- [[]]
+
+- `2021-10-18`  `13:38` _related_ [[]] | [[]] | [[]]
+	- [[c12 ch4 economics determination of income & employment]]
+	- [[autonomous consumption]]
+	- [[investment]]
+	- [[marginal propensity to save]]
+	- [[marginal propensity to consume]]
+	- [[unintended accumulation of inventories]]
+	- [[unintended decumulation of inventories]]
+	- [[multiplier meechanism]]
+	- [[paradox of thrift]]
+	- [[full employment level of income]]
+	- [[deficient demand]]
+	- [[Excess demand]]
+	- [[parametric shift]]
+- `2021-10-16`  `16:36` _related_ [[]] | [[]] | [[]]
+	- ummeed pe duniya tiki h --> how banks create money outta thin air !!, credit, etc
+	- [[cash reserve ratio]]
+	- [[statutory liquidity ratio]]
+	- [[money multiplier]]
+	- [[open market operations]]
+	- [[capital adequacy ratio]]
+	- [[capital-output ratio]]
+	- [[repo]]
+	- [[repo rate]]
+	- [[bank rate]]
+	- [[opportunity cost]]
+	- [[velocity of circulation of money]]
+	- [[demand deposit]]
+	- [[time deposits]]
+	- [[fiat money]]
+	- [[legal tender]] 10:09 PM 16/10/2021
+	- [[narrow]]
+	- [[broad]]
+	- [[liquidity]]
+	- [[aggregate monetary resources]]
+	- [[john maynard keynes]]
+	- [[ex post]] 10:43 PM 16/10/2021
+	- [[ex ante]]
+- `2021-10-15`  `16:42` _related_ [[]] | [[]] | [[]]
+	- [[GDP deflator]]
+	- [[real gdp]]
+	- [[nominal gdp]]
+	- [[consumer price index]]
+	- [[wholesale price index]]
+	- [[c12 economics macro ncert tk]]
+	- retained earnings
+	- [[brownfield investment]]
+	- [[greenfield investment]]
+	- [[asset monetisation]]
+	- [[disinvestment]]
+	- [[privatisation]]
+	- principle of [[tax]] certainty
+	- [[labor force participation rate]]
+	- [[WPR worker population rate]]
+
+```query 2021-10-15 18:47
+"economics terms"
+```

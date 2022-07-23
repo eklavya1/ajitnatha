@@ -1,0 +1,3 @@
+```query
+"doctrineˋ passive resistance"
+```

@@ -1,0 +1,4 @@
+- [[silk route]]
+- suez canal
+- oil
+- communism

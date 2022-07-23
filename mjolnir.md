@@ -1,0 +1,11 @@
+---
+alias: [2022-06-20,03:13,,,,,,,,,,,]
+---
+- [[mythology]] [[computer]]
+table of content
+```toc
+```
+
+- [[2022-06-20]] 03:13
+- Mjölnir (, Old Norse: Mjǫllnir [ˈmjɔlːnez̠]) is the hammer of the thunder god Thor in Norse mythology, used both as a devastating weapon and as a divine instrument to provide blessings. The hammer is attested in numerous sources, including 11th century runic Kvinneby amulet, the Poetic Edda, a collection of eddic poetry compiled in the 13th century, and the Prose Edda, a collection of prose and poetry compiled in the 13th century. The hammer was commonly worn as a pendant during the Viking Age in the Scandinavian cultural sphere, and Thor and his hammer occur depicted on a variety of objects from the archaeological record. Today the symbol appears in a wide variety of media and is again worn as a pendant by various groups, including adherents of modern Heathenry.
+[Wikipedia](https://en.wikipedia.org/wiki/Mj%C3%B6lnir)

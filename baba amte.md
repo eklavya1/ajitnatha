@@ -1,0 +1,3 @@
+- `2021-07-16`  `23:29`
+	- `Murlidhar Devidas Amte`, commonly known as Baba Amte,[2] (26 December 1914 – 9 February 2008) was an Indian social worker and social activist known particularly for his work for the rehabilitation and empowerment of people [[suffering]] from leprosy.[3][4] He has received numerous awards and prizes including the Padma Vibhushan, the Dr. [[br ambedkar]] International Award, the Gandhi Peace Prize, the Ramon Magsaysay Award, the Templeton Prize and the Jamnalal Bajaj Award. He is also known as the modern [[gandhi]] of India.
+	- 也 叫 anand van

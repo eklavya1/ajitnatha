@@ -1,0 +1,3 @@
+- `2021-07-18`  `17:05`
+	- 被 [[gandhi]]
+	- 生 ˋ a 新  society based on ethical values

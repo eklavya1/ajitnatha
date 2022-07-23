@@ -1,0 +1,2 @@
+- since they are jupiter like
+- J S U N

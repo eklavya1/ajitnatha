@@ -1,0 +1,363 @@
+{
+  "app:open-vault": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "V"
+    }
+  ],
+  "app:delete-file": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "graph:open-local": [],
+  "editor:fold-all": [],
+  "editor:unfold-all": [],
+  "outline:open": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "4"
+    }
+  ],
+  "editor:swap-line-up": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "editor:swap-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "editor:focus-left": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "U"
+    }
+  ],
+  "editor:focus-right": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "O"
+    }
+  ],
+  "editor:focus-top": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowUp"
+    }
+  ],
+  "editor:focus-bottom": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "ArrowDown"
+    }
+  ],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "T"
+    }
+  ],
+  "editor:open-search": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:toggle-numbered-list": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "-"
+    }
+  ],
+  "obsidian-footnotes:insert-footnote": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "6"
+    }
+  ],
+  "hotkeysplus-obsidian:duplicate-lines": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "D"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:temp 新 note tk.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:temp query.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "2"
+    }
+  ],
+  "graph:animate": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "G"
+    }
+  ],
+  "review-obsidian:future-review": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "R"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:constitution articles.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "6"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:xuan fa articles insert.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "7"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:daily current affairs template.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "8"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:temp alias.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "0"
+    }
+  ],
+  "workspace:edit-file-title": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "\\"
+    }
+  ],
+  "obsidian-excalidraw-plugin:insert-link": [],
+  "obsidian-excalidraw-plugin:toggle-lock": [],
+  "obsidian-hotkeys-for-templates:empty mini note template.md": [],
+  "obsidian-hotkeys-for-templates:temp new class note tk.md": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "3"
+    }
+  ],
+  "note-refactor-obsidian:app:extract-selection-first-line": [],
+  "advanced-cursors:add-cursor-above": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "."
+    }
+  ],
+  "graph:open": [],
+  "advanced-cursors:copy-line-down": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "obsidian-sentence-navigator:move-start-current-sentence": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "Home"
+    }
+  ],
+  "obsidian-sentence-navigator:move-start-next-sentence": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "End"
+    }
+  ],
+  "obsidian-sentence-navigator:select-sentence": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "]"
+    }
+  ],
+  "obsidian-shortcuts-for-starred-files:open-file-1": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "1"
+    }
+  ],
+  "obsidian-shortcuts-for-starred-files:open-file-2": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "2"
+    }
+  ],
+  "obsidian-shortcuts-for-starred-files:open-file-3": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "3"
+    }
+  ],
+  "find-and-replace-in-selection:find-and-replace-in-selection": [],
+  "obsidian-find-and-replace-in-selection:find-and-replace-in-selection": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "H"
+    }
+  ],
+  "workspace:close": [],
+  "app:toggle-right-sidebar": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Delete"
+    }
+  ],
+  "app:toggle-left-sidebar": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Insert"
+    }
+  ],
+  "app:open-help": [],
+  "editor:save-file": [],
+  "obsidian-auto-link-title:enhance-url-with-title": [],
+  "file-explorer:new-file": [],
+  "file-explorer:new-file-in-new-pane": [],
+  "editor:delete-paragraph": [],
+  "global-search:open": [
+    {
+      "modifiers": [
+        "Alt",
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "advanced-cursors:add-cursor-below": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": ","
+    }
+  ],
+  "editor:open-search-replace": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "F"
+    }
+  ],
+  "editor:follow-link": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "X"
+    }
+  ],
+  "obsidian-hotkeys-for-templates:empty note template.md": [
+    {
+      "modifiers": [
+        "Shift"
+      ],
+      "key": "Z"
+    }
+  ],
+  "app:go-back": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowLeft"
+    }
+  ],
+  "app:go-forward": [
+    {
+      "modifiers": [
+        "Alt"
+      ],
+      "key": "ArrowRight"
+    }
+  ]
+}

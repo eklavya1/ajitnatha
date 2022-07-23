@@ -1,0 +1,15 @@
+- characterized 被 its ability to innovate 里 小 time spans
+- life-long learning 是 好 known feature 的 这 经济
+- 知識  begets 知識  
+- knowledge as د competitive weapon 的 notre 时期
+- those who 能 wield knowledge &  信息 最多 effectively
+-  知道-how
+-  知识分子 capital of a firm + brain  力量 of 每一个 人 working there
+-  learning 于 [[management]] knowledge asests  应该 be د business' 第一 priority
+-  你 必须  有 a way 的 measuring knowledge 
+-  ==il miglior fabbro==
+-  a beer 能  是 25% knowledge ! 它  有 less 和 less material 和 energy 和 更 和 更 ==brains==
+-  triumph 的 know-how over nature
+-   经济 的 د intangible
+- throughout 历史 胜利  有 come 于 those who were on د cutting-edge 的 knowledge 
+-  [[信息 岁 xinxi]]

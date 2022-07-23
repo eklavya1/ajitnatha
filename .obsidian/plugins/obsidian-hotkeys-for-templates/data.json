@@ -1,0 +1,21 @@
+{
+  "files": [
+    "empty note template.md",
+    "temp book.md",
+    "temp country.md",
+    "temp url.md",
+    "temp arrow.md",
+    "temp alias.md",
+    "pdf progress.md",
+    "netflix seasons and episodes.md",
+    "mermaid graph tb.md",
+    "headings H2.md",
+    "headings H1.md",
+    "calendar to do list.md",
+    "constitution articles.md"
+  ],
+  "templaterFiles": [],
+  "newFileTemplates": [],
+  "openNewFileTemplateInNewPane": true,
+  "useNewFileTemplateOnFileCreation": false
+}

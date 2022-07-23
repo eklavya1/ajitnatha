@@ -1,0 +1,32 @@
+---
+alias: [,]
+---
+[[Madhya Pradesh]]
+
+[[2022-04-23]] 11:48
+from mcq
+bharhut scriptures used green schist as d medium
+
+Bharhut is a village located in the Satna district of Madhya Pradesh, central India. It is *known for its famous relics from a Buddhist stupa*. What makes Bharhut panels unique is that each panel is explicitly labelled in Brahmi characters mentioning what the panel depicts. The major donor for the Bharhut stupa was King Dhanabhuti.The Bharhut sculptures represent some of the earliest examples of Indian and Buddhist art, later than the monumental art of Ashoka (circa 260 BCE), and slightly later than the early Shunga-period reliefs on railings at Sanchi Stupa No.2 (starting circa 115 BCE). Though more provincial in quality than the sculpture at Sanchi, Amaravati Stupa and some other sites, a large amount of sculpture has survived, generally in good condition.  Recent authors date the reliefs of the railings of Bharhut circa 125–100 BCE, and clearly after Sanchi Stupa No.2, compared to which Bharhut has a much more developed iconography. The torana gateway was made slightly later than the railings, and is dated to 100–75 BCE. Historian Ajit Kumar gives a later date to Bharhut, the 1st century CE, based on stylistic comparisons with datable works of art from the Art of Mathura, particularly sculptures inscribed in the name of ruler Sodasa. Many of the Bharhut remains are now located in the Indian Museum in Kolkata.
+
+Buddhism continued to survive in Bharhut until 12th century. A Small Buddhist temple was enlarged around 1100 AD and a new statue of Buddha was installed. A large Sanskrit inscription from the same period was found at the site, however it appears to have been lost. This is different from the inscription Lal Pahad inscription of AD 1158 mentioning the Kalachiri kings.Some recent reevaluations have tended to uncouple Bharhut from the Shunga period, and rather attribute the stupa to the 1st century CE, based on artistic similarities with better dated Mathura art and a questioning of the antiquity of the Bharhut inscriptions (particularly the Dhanabhuti inscriptions) suggested by traditional paleography.
+[Wikipedia](https://en.wikipedia.org/wiki/Bharhut)
+# ...art and culture c11 ch4 - post mauryan trend in the indian art and architecture
+- [[bharhut]] sculptures are tall like the images of Yaksha and Yakhshini in the Mauryan period, modelling of the sculptural volume is in low relief maintaining linearity. Images stick to the picture plane. In the relief panels depicting narratives, illusion of three-dimensionality is shown with tilted perspective. Clarity in the narrative is enhanced by selecting main events. At Bharhut, narrative panels are shown with fewer characters but as the time progresses, apart from the main character in the story, others also start appearing in the picture space. At times more than one event at one geographical place is clubbed in the picture space or only a single main event is depicted in the pictorial space.
+- Availability of the space is utilised to the maximum by the sculptors. Folded hands in the narratives as well as single figures of the **Yakhshas and Yakshinis** are shown flat clinging to the chest. But in some cases, especially in later times, the _hands are shown with the natural projection against the chest_. Such examples show how artisans who were working at a collective level had to understand the method of carving. Initially, dressing the surface of stone slabs appears as the main concern. Later the human body and other forms were sculpted. Due to shallow carving of the picture surface, projection of hands and feet was not possible, hence, the folded hands and awkward position of the feet. There is a general stiffness in the body and arms. But gradually, such visual appearance was modified by making images with deep carvings, pronounced volume and a very naturalistic representation of human and animal bodies. Sculptures at Bharhut, Bodhgaya, Sanchi Stupa-2, and Jagayyapetta are good examples.
+![[Yakshini, Bharhut pic.png]]
+
+- Narrative reliefs at Bharhut show how artisans used the pictorial language very effectively to communicate stories. In one such narrative, showing _Queen Mayadevi’s (mother of Siddhartha Gautam_) dream, a descending [[elephant]] is shown. The [[queen]] is shown reclining on the bed whereas an elephant is shown on the top heading towards the womb of Queen [[mayadevi]].
+- On the other hand, the depiction of a Jataka story is very simple—narrated by clubbing the events according to the geographical location of the story like the depiction of [[Ruru Jataka]] where the [[bodhisattva tk]] deer is rescuing a man on his back. The other event in the same picture frame depicts the King standing with his army and about to shoot an arrow at the deer, and the man who was rescued by the [[deer]] is also shown along with the king pointing a finger at the deer. According to the story, the man promised the deer after his rescue that he would not disclose his identity to anybody. But when the [[king]] makes a proclamation of reward for disclosing the identity of the deer, he turns hostile and takes the king to the same jungle where he had seen the deer.
+- Such Jataka stories became part of stupa decoration. Interestingly, with the rise in the construction of stupas in various parts of the country, regional stylistic variations also began to emerge. One main characteristic in all the male images of first–second centuries BCE is the knotted headgear. In many sculptures it is very consistent. Some of the sculptures found at Bharhut are displayed in Indian Museum, Kolkata.
+![[jataka panel, bharhut and queen maya's dream, bharhut pic.png]]
+
+### ............................................................
+
+- [[2021-12-01]]  `16:15` _related_ [[]] | [[]] | [[]] # # #
+	- <iframe src="https://www.wikiwand.com/en/Bharhut" width="600" height="500" ></iframe>
+	- Bharhut is a village located in the Satna district of [[Madhya Pradesh]], central India. It is known for its famous relics from a Buddhist stupa. What makes Bharhut panels unique is that each panel is explicitly labelled in [[brahmi script]] characters mentioning what the panel depicts. The major donor for the Bharhut stupa was King Dhanabhuti.
+
+```query
+"bharhut"
+```

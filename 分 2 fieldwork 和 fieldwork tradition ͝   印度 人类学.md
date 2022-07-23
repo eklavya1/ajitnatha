@@ -1,0 +1,6 @@
+- `2021-07-17`  `11:32`
+	- fieldwork 很 重要 ͝   人类学
+	- armchair scholars
+	- fieldwork 是 إلى 人类学 what . blood ˋ martyrs 过 إلى . [[church]]
+	- fieldwork almost 全 eliminated speculation
+	- ignorance 的. subject ˋ 语言 不 好 [[400 语言]]

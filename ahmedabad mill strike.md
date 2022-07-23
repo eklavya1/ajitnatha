@@ -1,0 +1,3 @@
+```query
+"ahmedabad mill strike"
+```

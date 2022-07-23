@@ -1,0 +1,20 @@
+---
+alias: [2022-05-27,16:10,,,,,,,,,,,]
+---
+[[ancient and medieval history c5]] [[indra]]
+table of content
+```toc
+```
+
+[[2022-05-27]] 16:10
+- assassin's creed is an open-world action-adventure stealth video game franchise published by ubisoft and developed mainly by its studio ubisoft montreal using the game engine anvil and its more advanced derivatives. created by patrice désilets, jade raymond, and corey may, the assassin's creed series depicts a fictional millennia-old struggle between the assassins, who fight for peace and free will, and the templars, who desire peace through order and control. the series features historical fiction, science fiction and fictional characters intertwined with real-world historical events and figures. in the majority of the games, players control a historical assassin, while also playing as an assassin initiate or someone caught in the assassin-templar conflict in the present-day framing story. considered a spiritual successor to the prince of persia series, assassin's creed took inspiration from the novel alamut by the slovenian writer vladimir bartol, based on the historical hashashin sect of the medieval middle east.
+
+the series' eponymous first title was released in 2007, and it has featured twelve main games in total, the most recent being 2020's valhalla. main games in the assassin's creed series are set in an open world and played from the third-person perspective. gameplay revolves around combat, stealth, and exploration, including the use of parkour to navigate the environment. the games feature both main and side missions, and some titles (beginning with 2010's brotherhood) also include competitive and co-operative multiplayer game modes.
+
+a new story and occasional new time period are introduced in each entry, and gameplay elements evolve from the previous one. there are three overarching story arcs in the series. the first five main games follow desmond miles, a descendant of several important assassins throughout history, who uses a machine called the animus to relive his ancestors' memories and find powerful artifacts called "pieces of eden", while also attempting to prevent a catastrophic event said to wipe out humanity by the end of 2012. from assassin's creed iv: black flag and until assassin's creed syndicate, assassin initiates and employees of abstergo (a company used as a front by the modern-day templars) record genetic memories using the helix software, helping the templars and assassins find new pieces of eden in the modern world. the latest three games, assassin's creed origins, assassin's creed odyssey, and assassin's creed valhalla, follow ex-abstergo employee layla hassan on her own quest to save humanity from another disaster.
+
+the main games in the assassin's creed franchise have received generally positive reviews for their ambition in visuals, game design, and narratives, with criticism for the yearly release cycle and frequent bugs, as well as a shift towards the prioritising of role-playing mechanics in later titles. the series has received multiple awards and nominations, including several game of the year awards. it is commercially successful, selling over 155 million copies as of october 2020, becoming ubisoft's best-selling franchise and one of the highest selling video game franchises of all time. while main titles are produced for major consoles and desktop platforms, multiple spin-off games have been released for consoles, mobiles, and handhelds platforms. a series of art books, encyclopedias, comics, novelizations, and novels have been also been published. in 2016, a live-action film adaptation of assassin's creed was released, receiving generally negative reviews from fans and critics.
+[wikipedia](https://en.wikipedia.org/wiki/assassin's%20creed)
+```query
+"assassins creed"
+```

@@ -1,0 +1,3 @@
+- jean 和 jefferies
+- an intervening 星星 came near إلى sun, gravitational attraction resulted 里 د ejection 的 tides 的 material 那 formed planetover د 时期 的 time
+- 

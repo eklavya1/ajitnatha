@@ -1,0 +1,3 @@
+- mahia peninsula- ![[mahia peninsula pic.png]]
+- ![[new zea with mahia pensisula pic.png]]
+- ![[Pasted image 20210624225329.png]]

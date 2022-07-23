@@ -1,0 +1,3 @@
+- `2021-07-21`  `13:02`
+	- ![[Pasted image 20210721130219.png]]
+	- [[_anthropology moc]]

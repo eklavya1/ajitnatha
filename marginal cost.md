@@ -1,0 +1,190 @@
+---
+alias: [2022-04-17,21:19,,,,,,,,,,,]
+---
+[[]]
+table of content
+```toc
+```
+
+[[2022-04-17]] 21:19
+In economics,  the marginal cost is the change in the total cost that arises when the quantity produced is incremented, the cost of producing additional quantity. In some contexts, it refers to an increment of one unit of output, and in others it refers to the rate of change of total cost as output is increased by an infinitesimal amount. As Figure 1 shows, the marginal cost is measured in dollars per unit, whereas total cost is in dollars, and the marginal cost is the slope of the total cost, the rate at which it increases with output. Marginal cost is different from average cost, which is the total cost divided by the number of units produced. 
+
+At each level of production and time period being considered, marginal cost include all costs that vary with the level of production, whereas costs that do not vary with production are fixed. For example, the marginal cost of producing an automobile will include the costs of labor and parts needed for the additional automobile but not the fixed cost of the factory building that do not change with output. The marginal cost can be either short-run or long-run marginal cost, depending on what costs vary with output, since in the long run even building size is chosen to fit the desired output. 
+
+If the cost function 
+
+  
+
+    
+
+      
+
+        C
+
+      
+
+    
+
+    {\displaystyle C}
+
+   is continuous and differentiable, the marginal cost 
+
+  
+
+    
+
+      
+
+        M
+
+        C
+
+      
+
+    
+
+    {\displaystyle MC}
+
+   is the first derivative of the cost function with respect to the output quantity 
+
+  
+
+    
+
+      
+
+        Q
+
+      
+
+    
+
+    {\displaystyle Q}
+
+  :
+
+
+
+  
+
+    
+
+      
+
+        M
+
+        C
+
+        (
+
+        Q
+
+        )
+
+        =
+
+        
+
+          
+
+            
+
+               
+
+              d
+
+              C
+
+            
+
+            
+
+               
+
+              d
+
+              Q
+
+            
+
+          
+
+        
+
+        .
+
+      
+
+    
+
+    {\displaystyle MC(Q)={\frac {\ dC}{\ dQ}}.}
+
+  If the cost function is not differentiable, the marginal cost can be expressed as follows:
+
+
+
+  
+
+    
+
+      
+
+        M
+
+        C
+
+        =
+
+        
+
+          
+
+            
+
+              Δ
+
+              C
+
+            
+
+            
+
+              Δ
+
+              Q
+
+            
+
+          
+
+        
+
+        ,
+
+      
+
+    
+
+    {\displaystyle MC={\frac {\Delta C}{\Delta Q}},}
+
+  where 
+
+  
+
+    
+
+      
+
+        Δ
+
+      
+
+    
+
+    {\displaystyle \Delta }
+
+   denotes an incremental change of one unit.
+[Wikipedia](https://en.wikipedia.org/wiki/Marginal%20cost)
+```query
+"marginal cost"
+```

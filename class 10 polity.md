@@ -1,0 +1,8 @@
+[[c10 ch-1 力 sharing]]
+[[c10 ch-2 Federalism]]
+[[c10 ch-3 Democracy and Diversity]]
+[[c10 ch-4 Gender, Religion and Caste]]
+[[c10 ch-5, Popular Struggles and Movements]]
+[[c10 ch-6 political parties]]
+[[c10 ch-7 Outcomes of Democracy]]
+[[c10 ch-8 Challenges to Democracy]]

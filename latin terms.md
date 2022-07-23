@@ -1,0 +1,188 @@
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- 
+- [[scholar emeritus]] 07:21 [[2022-04-27]]
+- [[volte face]] 04:28 [[2022-03-28]]
+- [[lex talionis]]
+- [[suo moto]]
+- [[espirit de corps]]
+- [[nota bene]]
+- [[inter alia]]
+- [[de novo]]
+- [[sine qua non]]
+-[[ex post facto]] 
+- [[fidei defensor]]
+- [[summa cum laude]]
+- [[respondeat superior]]
+- Experientum Auctoriat #doubt “authority of experience” - from movie *outside the wire* netflix - from back 1:45:23
+- [[status quo]]
+- [[tabula rasa]]
+- [[a priori]]
+- [[reductio ad absurdum]]
+- societas civilis 03:32 PM 18/12/2021
+- [[de minimis]]
+- [[Audi Altrem Partem]]
+- [[terra incognita]]
+- [[ab initio]]
+- [[jus soli]]
+- [[aide-mémoire]]
+- [[note verbale]]
+- [[per incuriam]]
+- [[ex facie]]
+- [[ex parte]]
+- [[avant garde]]
+- [[locus classicus]]
+- [[pro tempore]]
+- [[a fortiori]]
+- pro tem 10:36 PM 30/10/2021
+- [[mea culpa]] 02:43 AM 30/10/2021
+- [[de minimis]] 05:14 PM 24/10/2021
+- [[ceteris paribus]] 10:40 PM 16/10/2021
+- [[bona fide]] 01:15 PM 10/10/2021
+- [[verbund]] 06:57 PM 02/10/2021
+- [[ad hoc]] 06:03 PM 01/10/2021
+- [[gratis]] 12:36 PM 17/9/2021
+- [[SPQR]] 12:59 AM 14/9/2021
+- [[Ago ergo cogito]] (I act, therefore I think) 03:55 PM 12/9/2021
+- [[ex nihilo]] 01:34 PM 08/9/2021
+- [[ad valorem]] 10:10 AM 08/9/2021
+- [[annus mirabilis]] 10:09 AM 08/9/2021
+- [[Augean stable]] 02:00 PM 05/9/2021
+- [[terra nullius]] 06:20 AM 25/8/2021
+- [[inhere]] 08:50 PM 19/8/2021
+- [[fait accompli]] 08:42 PM 19/8/2021
+- [[mare librum]] 01:40 AM 15/8/2021
+- [[faux pas]] 01:41 AM 15/8/2021
+- [[mare clausum]] 01:40 AM 15/8/2021
+- [[Ad Lib]] 05:56 PM 14/8/2021
+- [[sine die]] 02:18 AM 13/8/2021
+- [[sui generis]] 02:15 AM 13/8/2021
+- [[mala fide]] 12:26 AM 11/8/2021
+- [[noblesse oblige]]
+- [[mesos]] 03:47 PM 08/8/2021
+- [[potamos]] 03:47 PM 08/8/2021
+- [[pithekos]] 01:14 AM 08/8/2021
+- [[austral]] 01:14 AM 08/8/2021
+- [[sub judice]] 02:33 PM 07/8/2021
+- [[abyss]] 03:09 PM 06/8/2021
+- [[ne plus ultra]] 02:27 AM 31/7/2021
+- [[incommunicado]] 01:43 AM 31/7/2021
+- [[Posse comitatus]] 01:33 AM 31/7/2021
+- [[ex post]] 04:16 PM 25/7/2021
+- [[ex ante]] 04:14 PM 25/7/2021
+- [[jus ad bellum]] 08:35 PM 22/7/2021
+- [[lithos]] 11:00 PM 18/7/2021
+- [[ripa]] 12:16 AM 16/7/2021
+- [[res communis humanitatis]] 10:17 PM 15/7/2021
+- [[Force majeur]] 10:32 AM 15/7/2021
+- [[actus curiae neminem gravabit]]
+- [[salvo]]
+- [[turpitude]]
+- [[noblesse oblige]]
+- [[proviso]]
+- Prosopography
+- [[long duree]]
+- [[cynosure]]
+- Chargé D’affaires = an ambassador's deputy. 代办 قائم بالأعمال
+- [[Studium Generale]] = “School of Universal Learning”.
+- [[ultima ratio]] 09:45 AM 30/6/2021
+- [[Ancien Régime]]
+- [[sub judice]]
+- [[errata]]
+- [[ex gratia]]
+- plenipotentiary
+- prima facie
+- [[Formula Comitis Archiatrorum]]
+- [[locus standi]]
+- prosecutrix
+- adduce
+- [[sanctum sanctorum]]
+- inter alia
+- post hoc ergo propter hoc
+- [[alma mater]]
+- [[fait accompli]]
+- [[malafide]]
+- [[inter se]]
+- [[amicus curiae]]
+- [[ex officio]] 07:45 AM 08/9/2021
+- [[sui generis]]
+- accretion
+- syncretism
+- agrestic
+- peripatetic 
+- [[ad infinitum]]
+- [[ad absurdum]]
+- [[caveat emptor]]
+- [[pax urbanica]]
+- pax arabica
+- [[pax indica]]
+- [[pax romana]]
+- [[pax britannica]]
+- [[primus inter pares]]
+- [[modus operandi]]
+- [[modus vivendi]]
+- [[ultra vires]] 
+- [[Centesimus annus]]
+- [[lingua franca]]
+- [[vice versa]]
+- [[quo warranto]]
+- [[habeau corpus]]
+- [[certiorari]]
+- [[mandamus]]
+- [[escheat]]
+- [[bona vacantia]]
+- [[ipso facto]]
+
+```query
+"latin terms"
+```
+
+```query
+"latin"
+```

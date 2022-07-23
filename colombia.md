@@ -1,0 +1,2 @@
+- ![[Pasted image 20210627135429.png]]
+- Catatumbo reg- one of the main coca growing areas 的 د 国

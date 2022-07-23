@@ -1,0 +1,1 @@
+- د [[Gommateshwara]] statue at [[Shravanabelagola]] 是 one of د most important tirthas (pilgrimage destinations) in Jainism.

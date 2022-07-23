@@ -1,0 +1,6 @@
+- [[jagirdar]]
+- [[mansab]]
+
+```query
+"heritable"
+```

@@ -1,0 +1,7 @@
+{
+  "folder": "book-notes 书",
+  "frontmatter": "author:: {{author}}\npublisher:: {{publisher}}\npublishDate:: {{publishDate}}\ntotalPage:: {{totalPage}}\nisbn10:: {{isbn10}}\nisbn13:: {{isbn13}}\n\n![cover]({{coverUrl}})\n",
+  "content": "",
+  "useDefaultFrontmatter": true,
+  "defaultFrontmatterKeyType": "Snake Case"
+}

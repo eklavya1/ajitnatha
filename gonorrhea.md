@@ -1,0 +1,11 @@
+---
+alias: [2022-07-10,09:19,,,,,,,,,,,]
+---
+- [[monkey]] [[smallpox]]
+table of content
+```toc
+```
+
+- [[2022-07-10]] 09:19
+- Gonorrhea, colloquially known as the clap, is a sexually transmitted infection (STI) caused by the bacterium Neisseria gonorrhoeae. Infection may involve the genitals, mouth, or rectum. Infected men may experience pain or burning with urination, discharge from the penis, or testicular pain. Infected women may experience burning with urination, vaginal discharge, vaginal bleeding between periods, or pelvic pain. Complications in women include pelvic inflammatory disease and in men include inflammation of the epididymis. Many of those infected, however, have no symptoms. If untreated, gonorrhea can spread to joints or heart valves.Gonorrhea is spread through sexual contact with an infected person. This includes oral, anal, and vaginal sex. It can also spread from a mother to a child during birth. Diagnosis is by testing the urine, urethra in males, or cervix in females. Testing all women who are sexually active and less than 25 years of age each year as well as those with new sexual partners is recommended; the same recommendation applies in men who have sex with men (MSM).Gonorrhea can be prevented with the use of condoms, having sex with only one person who is uninfected, and by not having sex. Treatment is usually with ceftriaxone by injection and azithromycin by mouth. Resistance has developed to many previously used antibiotics and higher doses of ceftriaxone are occasionally required. Retesting is recommended three months after treatment. Sexual partners from the last two months should also be treated.Gonorrhea affects about 0.8% of women and 0.6% of men. An estimated 33 to 106 million new cases occur each year, out of the 498 million new cases of curable STI – which also includes syphilis, chlamydia, and trichomoniasis. Infections in women most commonly occur when they are young adults. In 2015, it caused about 700 deaths. Descriptions of the disease date back to before the Common Era within the Old Testament. The current name was first used by the Greek physician Galen before 200 AD who referred to it as "an unwanted discharge of semen".
+[Wikipedia](https://en.wikipedia.org/wiki/Gonorrhea)

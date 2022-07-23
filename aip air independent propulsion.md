@@ -1,0 +1,6 @@
+- [[stk science and tech MOC]]
+- • AIP stands for Air Independent propulsion test which allows any submarine to stay in water for longer hours and also makes the subsurface platform deadlier by decreasing the noise levels it makes while travelling making it hard to detect. 
+ • Indian Navy has both conventional and nuclear submarines in its arsenal. The fleet of conventional submarines use diesel-electric engines, which require them to surface almost daily to get atmospheric oxygen for fuel combustion. The AIP technology allows many non-nuclear submarines to function without accessing atmospheric oxygen. Hence, statement 2 is correct.
+ • With the Air Independent Propulsion (AIP) system on board, these submarines will be required to surface much less frequently, thus increasing their lethality and stealth multifold. The strategically important Air Independent Propulsion (AIP) crucial for diesel-electric submarines. Hence, statement 1 is not correct.
+ • Air Independent Propulsion (AIP) is being developed by the Defence Research and Development Organisation (DRDO). DRDO’s AIP technology is based on a Phosphoric Acid Fuel Cell. 
+ • The AIP technology would make the Indian submarines more lethal. It would also take advantage of internal refraction that rises in the equatorial waters due to differences in temperatures within the ocean and on the surface.

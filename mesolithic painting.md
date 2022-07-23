@@ -1,0 +1,20 @@
+- `2021-07-23`  `14:38`
+	- 过 a type ˋ rock [[basholi style of painting|painting]] 或 [[petroglyph paintings]]
+	- it 过 ͝ . form ˋ `line diagrams`
+	- 过 createdᒻwall ˋ cave 被 scratching 和 creating diagrams
+	- [[microlith]] further facilitated ͝   creating . images
+	- variety ˋ colors were 用  ╷  . dominating color 过 red 红 和 it 过 obtained من 动物 blood
+	- theme 的. [[basholi style of painting|painting]]
+		- hunting (men depicted)
+		- fighting (men depicted)
+		- food gathering (women depicted)
+		- household chores (women depicted)
+		- celebration
+		- group dance
+		- 动物 riding (men depicted)
+			- indicates taming ˋ 动物 [[Aryan culture]]
+		- sexual union
+		- phallous worship
+		- yoni worship
+- sexual div ˋ work 过 there
+- mesolithic [[basholi style of painting|painting]] not 只 reflects . fine aesthetic sense ˋ mesolithic 人╷也 it reflects ᒻ socio-cultural practices ˋ 那 时

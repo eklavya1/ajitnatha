@@ -1,0 +1,21 @@
+---
+alias: [2022-05-31,19:24,,,,,,,,,,,]
+---
+[[=world war I the definitive visual guide]]
+table of content
+```toc
+```
+
+- [[2022-05-31]] 19:24
+- alfred von schlieffen
+- the schlieffen plan (german: schlieffen-plan, pronounced [ʃliːfən plaːn]) is a name given after the first world war to pre-war german war plans, due to the influence of field marshal alfred von schlieffen and his thinking on an invasion of france and belgium, which began on 4 august 1914. schlieffen was chief of the general staff of the german army from 1891 to 1906. in 1905 and 1906, schlieffen devised an army deployment plan for a war-winning offensive against the french third republic. german forces were to invade france through the netherlands and belgium rather than across the common border. after losing the first world war, german official historians of the reichsarchiv and other writers described the plan as a blueprint for victory. generaloberst (colonel-general) helmuth von moltke the younger, succeeded schlieffen as chief of the german general staff in 1906 and was dismissed after the first battle of the marne (5–12 september 1914). german historians claimed that moltke had ruined the plan by meddling with it out of timidity.
+
+- post-war writing by senior german officers like hermann von kuhl, gerhard tappen, wilhelm groener and the reichsarchiv historians led by the former oberstleutnant (lieutenant-colonel) wolfgang förster, managed to establish a commonly accepted narrative that moltke the younger failed to follow the blueprint devised by schlieffen and condemned the belligerents to four years of attrition warfare. it was not german strategic miscalculation that denied germany the quick, decisive conflict it should have been. in 1956, gerhard ritter published der schlieffenplan: kritik eines mythos (the schlieffen plan: critique of a myth), which began a period of revision, when the details of the supposed schlieffen plan were subjected to scrutiny and contextualisation. treating the plan as a blueprint was rejected, because this was contrary to the tradition of prussian war planning established by helmuth von moltke the elder, in which military operations were considered to be inherently unpredictable. mobilisation and deployment plans were essential but campaign plans were pointless; rather than attempting to dictate to subordinate commanders, the commander gave the intent of the operation and subordinates achieved it through auftragstaktik (mission-type tactics).
+
+- in writings from the 1970s, martin van creveld, john keegan, hew strachan and others, studied the practical aspects of an invasion of france through belgium and luxembourg. they judged that the physical constraints of german, belgian and french railways and the belgian and northern french road networks made it impossible to move enough troops far enough and fast enough for them to fight a decisive battle if the french retreated from the frontier. most of the pre-1914 planning of the german general staff was secret and the documents were destroyed when deployment plans were superseded each april. the bombing of potsdam in april 1945 destroyed the prussian army archive and only incomplete records and other documents survived. some records turned up after the fall of the german democratic republic (gdr), making an outline of german war planning possible for the first time, proving wrong much post-1918 writing.
+
+- in the 2000s, a document, rh61/v.96, was discovered in the trove inherited from the gdr, which had been used in a 1930s study of pre-war german general staff war planning. inferences that schlieffen's war planning was solely offensive were found to have been made by extrapolating his writings and speeches on tactics into grand strategy. from a 1999 article in war in history and in inventing the schlieffen plan (2002) to the real german war plan, 1906–1914 (2011), terence zuber engaged in a debate with terence holmes, annika mombauer, robert foley, gerhard gross, holger herwig and others. zuber proposed that the schlieffen plan was a myth concocted in the 1920s by partial writers, intent on exculpating themselves and proving that german war planning did not cause the first world war, a view which was supported by hew strachan.
+[wikipedia](https://en.wikipedia.org/wiki/schlieffen%20plan)
+```query
+"schlieffen plan"
+```

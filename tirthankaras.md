@@ -1,0 +1,16 @@
+---
+alias: [2022-06-02,20:04,,,,,,,,,,,]
+---
+[[art and culture c3]]
+table of content
+```toc
+```
+
+[[2022-06-02]] 20:04
+- in jainism, a tirthankara (sanskrit: tīrthaṅkara; english: literally a 'ford-maker') is a saviour and spiritual teacher of the dharma (righteous path). the word tirthankara signifies the founder of a tirtha, which is a fordable passage across the sea of interminable births and deaths, the saṃsāra. according to jains, a tirthankara is an individual who has conquered the saṃsāra, the cycle of death and rebirth, on their own, and made a path for others to follow. after understanding the true nature of the self or soul, the tīrthaṅkara attains kevala jnana (omniscience).  tirthankara provides a bridge for others to follow the new teacher from saṃsāra to moksha (liberation).in jain cosmology, the wheel of time is divided in two halves, utsarpiṇī or ascending time cycle and avasarpiṇī, the descending time cycle (said to be current now). in each half of the cosmic time cycle, exactly twenty-four tirthankaras grace this part of the universe. there have been an infinite number of tirthankaras in the past time periods. the first tirthankara in this present time cycle (hunda avsarpini) was rishabhanatha, who is credited for formulating and organising humans to live in a society harmoniously. the 24th and last tirthankara of the present half-cycle was mahavira swami ji (599 bc–527 bc). history records the existence of mahavira and his predecessor, parshvanath, the twenty-third tirthankara.a tirthankara organises the sangha, a fourfold order of male and female monastics, srāvakas (male followers) and śrāvikās (female followers).the tirthankara's teachings form the basis for the jain canons. the inner knowledge of tirthankara is believed to be perfect and identical in every respect and their teachings do not contradict one another. however, the degree of elaboration varies according to the spiritual advancement and purity of the society during their period of leadership. the higher the spiritual advancement and purity of mind of the society, the lower the elaboration required.
+
+while tirthankaras are documented and revered by jains, their grace is said to be available to all living beings, regardless of religious orientation.tīrthaṅkaras are arihants who after attaining kevalajñāna (pure infinite knowledge) preach the true dharma. an arihant is also called jina (victor), that is one who has conquered inner enemies such as anger, attachment, pride and greed. they dwell exclusively within the realm of their soul, and are entirely free of kashayas, inner passions, and personal desires. as a result of this, unlimited siddhis, or spiritual powers, are readily available to them – which they use exclusively for the spiritual elevation of living beings. through darśana, divine vision, and deshna, divine speech, they help others in attaining kevalajñana, and moksha (final liberation) to anyone seeking it sincerely.
+[wikipedia](https://en.wikipedia.org/wiki/tirthankara)
+```query
+"tirthankaras"
+```

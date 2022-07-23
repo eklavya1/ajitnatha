@@ -1,0 +1,3 @@
+```query
+"zero-sum game"
+```

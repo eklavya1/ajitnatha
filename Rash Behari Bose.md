@@ -1,0 +1,3 @@
+- `2021-07-17`  `15:08`
+	- ![](https://miro.medium.com/max/825/1*eN_5P1Wm7hiaE3E1qai40Q.jpeg)
+	- https://medium.com/lessons-from-history/india-won-its-independence-thanks-to-japan-not-gandhi-df683f616650 ^ef3ce3

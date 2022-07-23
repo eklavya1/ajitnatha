@@ -1,0 +1,7 @@
+- 六零
+- [[六一 Official 语言]]
+- [[六二 Public Services]]
+- [[六三 Tribunals]]
+- [[六四] Rights 和 Liabilities 的 د Government]]
+- [[六五 Authoritative Text 的  د constitution 里 印度言 ]]
+- [[六六 Special Provisions Relating to Certain Classes]]

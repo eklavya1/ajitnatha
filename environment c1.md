@@ -1,0 +1,165 @@
+---
+alias:[,]
+---
+🔖-.,.,
+
+媽媽note(ifany)-
+
+`1.revision-03:49PM01/10/2021`
+`2.revision-11:40AM07/10/2021`
+`3.revision-11:21M09/11/2021`[[2021-11-09]]
+`4.revision-01:48M10/11/2021`
+`5.revision-`
+		
+`19:06和2021-09-17`
+
+
+`下`-[[environmentc2]]
+
+FunctionsofEcology(FoodChain,FoodWeb,Pyramids).
+NutrientCycle.
+EcologicalSuccession.
+#Biodiversity
+-ValuesandThreats.
+-ThreatenedSpecies([[iucn]]RedDataBook).
+-Conservation(ProtectedAreas).
+-NationalParks,BiodiversityHotspots,etc.
+-[[Conventions]]:Binding,
+	-[[NagoyaProtocol]],
+	-CBD,
+	-CITES,
+	-ConventiononMigratory[[Species]],
+	-[[RamsarConvention]]onWetlandsofInternationalImportance,etc.
+-Acts,[[Policies]],andInitiatives:Schedule1-6(e.g.Schedule6plant:needspermissionforcultivation).
+-BiodiversityAct2002,NBA(NationalBiodiversityAuthority),etc.
+#Pollution
+-CausesofPollution,
+-Issuesandchallenges:[[River]]pollution,[[acidrain]],wetlandpollution,etc.
+-Issueslike[[Antarctica]]OzoneHole.
+-GoodOzonedepletion,Smog(e.g.DelhiSmog)
+-Smoginitiative:[[India]]’sfirstSmogtowerwhichcanpurifytheair,andreleasepureairwasinstalledinCannaughtPlace,NewDelhi.
+-InUK,[[1956]][[London]]hadsimilarproblemslikeDelhi.
+#EIA
+-ChangesinEnvironmentalProtectionActwereaskedinthepreviousyear’spaper.
+#ClimateChange
+-GlobalWarmingandClimateChange:GHG(CarbonDioxide,CFCs,Methane,etc.)
+-Reports:E.g.IPCCReport:IntergovernmentalPanelonClimateChangeReportSix:Highlightsmanmadechanges,responsibleforclimatechangeimpact.
+-UNFCC:KyotoProtocol,ParisAgreement/Deal-[[2015]]
+-ParisAgreement:DevelopedandDevelopingcountriestakingactiontoprevent[[climate]]change.
+-India’sNationalActionPlanonClimateChange:EightMissions
+#recommendedreadings
+-VisionIASStudyMaterial(Part1,Part2,Part3)
+-NCERT-XIIBiology(Chapter13,14,15and16),iscoveredviaClassNotesandVisionIASStudyMaterial.
+-CurrentAffairs:WeeklyandMonthlyCurrentAffairsofVisionIAS(EnvironmentandEcology).
+-PT365:BeforePrelimsandMains365:BeforeMainsexam(areprovidedbyVisionIAS).
+#Ecology
+1:48PM
+-Theterm[[ecology]]isderivedfromthe[[Greek]]word“oikology”.
+-ThewordecologywascoinedbytheGermanzoologistErnstHaeckel.#pre
+-Itisacombinationoftwowords:
+	-Oikos:Houseoflivingorganism.
+	-Logos:meaningscientificstudy.
+	-WhichmeansScientificstudyofthehouseofthelivingorganism(habitat).
+-Definition:Ecologyisasubjectofinteractionandinterdependence.E.g.:
+#Environment
+-Itcomesfromthe[[French]]word:environner,meaningsurrounding.
+-Meaning:oursurroundings.
+-EnvironmentalScience(EVS):EnvironmentalScienceasanacademicfield,westudyabouttheenvironmentandecology(interaction).
+-FlowchartforEnvironmentalScience:
+-EnvironmentalSciencehastwocomponents:
+	-Environment(Surroundingoflivingorganisms,ithastwocomponents,oneisbiotic,livingcomponent,andabiotic,i.e.non-living:e.g.rivers,landmass,environment,etc.).
+	-Ecologyasthe2居component:Interactionandinterdependenceoflivingorganismsfromitssurrounding.Ecologyfocusesonthese[[divisions]],interactions,etc.
+-Ecologystudiesarangeoflivingphenomenafromtheroleofbacteriainnutrientcyclingtotheeffectsoftropicalrainforestsontheearth’s[[atmosphere]].
+-[[Ecology]]hasevolvedfromthesubjectoflife[[science]],whichisthestudyoflife.Thus,ecologystudiesinteractionsandinterdependenceamonglivingorganismsand了/人living[[organism]]sandtheirenvironment/surroundings.
+-The[[biosphere]]isallpartsofEarththatsupportthelife.
+-Thismeasuresapproximately20kmthick.
+-MostlifeonEarthexists了/人500mbelowthesurfaceoftheoceanandabove6kmabovesealevel.
+-Levelsof[[organization]]inEcology:(HolisminEcology)_holism_#doubt
+-Attheverybasiclevel,wehaveindividuals,e.g.Tiger,
+-Individual<population<,li=""></population<,>
+-[[Population]]:Individualsbelongingtothesamespecies.E.g.Tiger-population,AsiaticLionsofGir.
+-Community:Varioustypesofspeciesofplantsandanimalsandtheirpopulationsinageographicalarea,iscalledasabiotic-community.
+-Ecosystem:Alllivingorganismsfoundinanareaandtheirenvironment(bothlivingandnonliving).
+	-E.g.:Forest,Grassland,river,lakeareexamplesof[[ecosystem]].
+-Landscape:ALarge[[ecosystem]],
+	-e.g.[[WesternGhats]],[[Deccan]]Ghats,etc.
+-Biome:Alargegeographicalarea/landscapewithdistinctclimaticconditionswithfloraandfauna.
+	-E.g.Tundra,[[Taiga]],TropicalRainforests,etc.
+#ConceptofEcosystem
+(2:45PM)
+
+EcosystemreferstoPhysicalspaceoccupiedbyalivingorganism.
+
+Typesofecosystems:
+
+Terrestrial(NaturalandArtificial)
+Aquatic(NaturalandArtificial)
+NaturalTerrestrialecosystems:Forests,Deserts,etc.
+ArtificialTerrestrialecosystems:Garden,Zoo,etc.
+NaturalAquaticecosystems:Ocean,rivers,etc.
+ArtificialAquaticecosystems:Irrigationcanal,Reservoir,Aqua-[[culture]],aquarium,etc.
+#StructureofEcosystem:
+BioticandAbioticcomponents.
+Bioticwillinclude:Flora/FaunaandMicroorganism.
+Flora:Plants,e.g.Neem,Mango,Sal,etc.
+Fauna:Animals,Tiger,Lion,Leopard,Man,etc.
+Abioticwillinclude:PhysicalandChemicalFactors.
+Physicalfactors:[[Temperature]],rainfall,pH,Humidity,Light,etc.
+Chemicalfactors:Inorganicminerals,[[organic]]compounds,protein,lipids,carbohydrates,etc.
+#FunctionsofEcosystem
+Anecosystemisdrivenbytheflowofenergyandthecirculationofmatterbythebio-geochemicalcycle了/人the[[biosphere]],[[lithosphere]],hydrosphere,and[[atmosphere]].
+Solarradiationisthebasicinputof[[energy]]enteringtheecosystem.
+Inlivingorganisms,theenergy(chemicalenergy)andmatter(food)collectivelycalledasfoodenergyaretransferredbythe[[foodchain]]andfood-web,throughvarioustrophiclevels.
+Thusalltheelementsofanecosystemareinterdependentandintegrated.
+#Flowofenergy
+(happensthroughfood,[[foodchain]],foodweb,andecologicalpyramid).
+##Cyclingofnutrients
+Bio-Geocycles(gaseouscycle,sedimentarycycle)
+Gaseouscycle:Hydrogen,carbon,[[nitrogen]],etc.
+SulfurandPhosphorusundergoasedimentarycycle.
+Successional[[development]]ofthenewecosystem.
+[[ecologicalsuccession]]
+#Homeostasis
+Changesintheenvironment.
+Maintenanceofsteady-state[[equilibrium]].
+Feedbackmechanism.
+#Producers
+Autotrophs:(includesphototrophsandchemotrophs)
+Photo-trophs:
+Diatoms:Theyarephytoplanktons,microorganisms,theygivecolortotheseawater.
+#Chemo-trophs
+E.g.Chemosyntheticorganisms,[[sulphur]]bacteria,foundunderdeep-sea.
+Deeristhefirstlevelconsumer(herbivorous)
+Jackalisthe2居levelconsumer(carnivorous)
+Turtle/manareomnivorous.Omnivorouscanbebothprimary/secondaryconsumers.
+#FoodChain
+Foodchainisagraphicalrepresentationofenergyflowinanecosystemfromproducertoconsumers.
+Foodchainshaveunidirectionalorlinearenergyflow.
+Twomajortypesofthefoodchainare:
+	[[Grazing]]foodchain.E.g.Producerslikegrass,algae,etc.
+	DetritalFoodchain:Deadmatterfood-chain.Energystartsfromdeadorganicmatter.E.g.Deadleavesarebrokendownbyfungi,thenbybacteria.
+#FoodWeb
+Itisalsoagraphicalrepresentationofenergyflowinanecosystemvia‘interconnected’foodchains.
+Multidirectionalenergyflow,thenon-linearflowofenergy.
+Complexfoodweb(i.e.morenumberoffoodchains,ismorestablethansimplefoodweb,whichhaslessernumberoffoodchains).
+#Ecologicalpyramid
+Quantitativetooltostudyfoodchainsintermsoftheamountofenergy(KCalorKJ/msq./year),amountof[[biomass]],i.e.driedorganicmatter(gm/m2/year),andthenumberofeach[[organism]]([[number]]/m2),invarioustrophiclevels(TL).
+[[Pyramidofenergy]]:Itisalwaysupright(basedonthe2居lawofthermodynamics,lossofenergy).
+Lindemann’s[[Law]]of10%:Lossof90%fromonetrophicleveltothenext.
+[[PyramidofBiomass]]:Itcanbeuprightaswellasinverted.
+Exampleofinverted:E.g.Aquaticecosystems,pond,river,[[ocean]],etc.
+[[PyramidofNumbers]]:Itcanalsobeuprightaswellasinverted.
+Exampleofaninvertedpyramidof[[numbers]]:Treeecosystem(consistingoftheparasitic[[foodchain]]).
+
+Thetopicforthenextclass:FoodChain,types,contd...
+
+#assignment
+#recommendedreadings
+```query
+"environmentc1"
+```
+
+```plain
+changelog
+
+```

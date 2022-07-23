@@ -1,0 +1,11 @@
+- Deindustrialisation - Ruin 的 artisans and handicraftsmen: cheap and machine made goods imports flooded د Indian market after د [[charter act 的 1813]] allowing one-way free trade for British citizens. On د other hand, Indian products found it 更 and 更 difficult to penetrate د 欧洲 markets. After 1820, 欧洲 markets were virtually closed to Indian exports. Even د newly introduced rail network helped د 欧洲 products to reach د remotest corners 的 د country. Another feature 的 deindustrialisation was د decline 的 many cities and a process 的 ruralisation 的 India. Many artisans, faced with diminishing returns and repressive policies 的 د 公司 abandoned their professions and moved to villages and took to agriculture. This resulted in 提高 pressure on land. An overburdened agriculture sector was a major cause 的 poverty overburdened agriculture sector was a major cause 的 poverty during British rule and this upset د village economic set-up.
+
+- Impoverishment 的 Peasantry - د Govt. was only interested in [[maximisation]] 的 rents and in securing its share 的 revenue , had enforced د Permanent Settlement in large parts. Transferability 的 land was one feature 的 د 新 settlement which caused great insecurity to د tenants who lost all their traditional rights in land.
+
+- Development 的 Modern Industries - It was only in د second half 的 19th Century that modern machine based industries started coming up in India. د first cotton textile mill was started in 1853 in Bombay by Cowasjee Nanabhoy and د first jute mill came up in 1855 in Rishra ([[bengal]]).  但  most 的 د industries were foreign owned and controlled by British managing agencies.
+
+- ==Commercialisation 的 Indian Agriculture== - In د latter half 的 د 19th century, another significant trend was د emergence 的 د commercialisation 的 agriculture. Agriculture began to be influenced by commercial considerations. Certain specialised crops began to be grown 不  for consumption in د village  但  for sale in د national and even international markets. Commercial crops like cotton, jute, groundnut, oilseeds, sugarcane, [[tobacco]], etc. were 更 remunerative than food grains.
+
+```query 2021-10-22 01:18
+"economic impact of british rule"
+```

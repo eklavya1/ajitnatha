@@ -1,0 +1,5 @@
+- حزب الله - "partyˋgod"
+- حفل , حزب = party
+- - [[russia]] does not view Hezbollah as a "terrorist organization" but as a "legitimate socio-political force".
+- [[terrorist]]
+- 	Arabic:  فَإِنَّ حِزْبَ ٱللَّهِ هُمُ ٱلْغَالِبُونَ = "Verily the Party of God are they that shall be triumphant" [Quran 5:56] [[quran]]

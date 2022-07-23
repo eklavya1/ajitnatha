@@ -1,0 +1,20 @@
+---
+alias: [2022-04-30,12:23,,,,,,,,,,,]
+---
+[[asteroids]]
+table of content
+```toc
+```
+
+[[2022-04-30]] 12:23
+found beyond [[neptune]] in [[kuiper belt]]
+
+A comet is an icy, small Solar System body that, when passing close to the Sun, warms and begins to release gases, a process that is called outgassing. This produces a visible atmosphere or coma, and sometimes also a tail. These phenomena are due to the effects of solar radiation and the solar wind acting upon the nucleus of the comet. Comet nuclei range from a few hundred meters to tens of kilometers across and are composed of loose collections of ice, dust, and small rocky particles. The coma may be up to 15 times Earth's diameter, while the tail may stretch beyond one astronomical unit. If sufficiently bright, a comet may be seen from Earth without the aid of a telescope and may subtend an arc of 30° (60 Moons) across the sky. Comets have been observed and recorded since ancient times by many cultures and religions.
+
+Comets usually have highly eccentric elliptical orbits, and they have a wide range of orbital periods, ranging from several years to potentially several millions of years. Short-period comets originate in the Kuiper belt or its associated scattered disc, which lie beyond the orbit of Neptune. Long-period comets are thought to originate in the Oort cloud, a spherical cloud of icy bodies extending from outside the Kuiper belt to halfway to the nearest star. Long-period comets are set in motion towards the Sun from the Oort cloud by gravitational perturbations caused by passing stars and the galactic tide. Hyperbolic comets may pass once through the inner Solar System before being flung to interstellar space. The appearance of a comet is called an apparition.
+
+Comets are distinguished from asteroids by the presence of an extended, gravitationally unbound atmosphere surrounding their central nucleus. This atmosphere has parts termed the coma (the central part immediately surrounding the nucleus) and the tail (a typically linear section consisting of dust or gas blown out from the coma by the Sun's light pressure or outstreaming solar wind plasma). However, extinct comets that have passed close to the Sun many times have lost nearly all of their volatile ices and dust and may come to resemble small asteroids. Asteroids are thought to have a different origin from comets, having formed inside the orbit of Jupiter rather than in the outer Solar System. The discovery of main-belt comets and active centaur minor planets has blurred the distinction between asteroids and comets. In the early 21st century, the discovery of some minor bodies with long-period comet orbits, but characteristics of inner solar system asteroids, were called Manx comets. They are still classified as comets, such as C/2014 S3 (PANSTARRS). 27 Manx comets were found from 2013 to 2017.As of November 2021 there are 4584 known comets. However, this represents only a tiny fraction of the total potential comet population, as the reservoir of comet-like bodies in the outer Solar System (in the Oort cloud) is estimated to be one trillion. Roughly one comet per year is visible to the naked eye, though many of those are faint and unspectacular. Particularly bright examples are called "great comets". Comets have been visited by unmanned probes such as the European Space Agency's Rosetta, which became the first to land a robotic spacecraft on a comet, and NASA's Deep Impact, which blasted a crater on Comet Tempel 1 to study its interior.
+[Wikipedia](https://en.wikipedia.org/wiki/Comet)
+```query
+"comets"
+```

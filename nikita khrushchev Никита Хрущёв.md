@@ -1,0 +1,7 @@
+- 04:21 PM 11/7/2021
+	- [[USSR]]
+	- leader 的 د soviet union 1953-64
+	- denounced [[joseph stalin]] ˋ leaderzhip style
+	- suggested peaceful coex 跟. 西
+	- involved ͝ suppressing popular rebellion 里 hungary 和 里  د [[cu cuban missile crisis]]
+	- ![[Pasted image 20210711162353.png]] face

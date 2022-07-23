@@ -1,0 +1,7 @@
+- rampa rebellion 的 1879
+- [[revolt of 1857]] 
+- [[channar revolt]]
+- [[paika rebellion]]
+- [[rangpur rebellion]]
+- [[attingal outbreak]]
+- 

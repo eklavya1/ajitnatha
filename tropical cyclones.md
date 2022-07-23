@@ -1,0 +1,20 @@
+---
+alias: [2022-06-05,00:49,,,,,,,,,,,]
+---
+[[geo 27]]
+table of content
+```toc
+```
+
+[[2022-06-05]] 00:49
+- a tropical cyclone is a rapidly rotating storm system characterized by a low-pressure center, a closed low-level atmospheric circulation, strong winds, and a spiral arrangement of thunderstorms that produce heavy rain and/or squalls. a hurricane is a strong tropical cyclone that occurs in the atlantic ocean or northeastern pacific ocean, and a typhoon occurs in the northwestern pacific ocean; in the indian ocean, south pacific, or (rarely) south atlantic, comparable storms are referred to simply as "tropical cyclones", and such storms in the indian ocean can also be called "severe cyclonic storms".
+
+"tropical" refers to the geographical origin of these systems, which form almost exclusively over tropical seas. "cyclone" refers to their winds moving in a circle, whirling round their central clear eye, with their winds blowing counterclockwise in the northern hemisphere and clockwise in the southern hemisphere. the opposite direction of circulation is due to the coriolis effect. tropical cyclones typically form over large bodies of relatively warm water. they derive their energy through the evaporation of water from the ocean surface, which ultimately condenses into clouds and rain when moist air rises and cools to saturation. this energy source differs from that of mid-latitude cyclonic storms, such as nor'easters and european windstorms, which are fueled primarily by horizontal temperature contrasts. tropical cyclones are typically between 100 and 2,000 km (62 and 1,243 mi) in diameter. every year tropical cyclones impact various regions of the globe including the gulf coast of north america, australia, india and bangladesh.
+
+the strong rotating winds of a tropical cyclone are a result of the conservation of angular momentum imparted by the earth's rotation as air flows inwards toward the axis of rotation. as a result, they rarely form within 5° of the equator. tropical cyclones are very rare in the south atlantic (although occasional examples do occur) due to consistently strong wind shear and a weak intertropical convergence zone. conversely, the african easterly jet and areas of atmospheric instability give rise to cyclones in the atlantic ocean and caribbean sea, while cyclones near australia owe their genesis to the asian monsoon and western pacific warm pool.
+
+the primary energy source for these storms is warm ocean waters. these storms are therefore typically strongest when over or near water, and weaken quite rapidly over land. this causes coastal regions to be particularly vulnerable to tropical cyclones, compared to inland regions. coastal damage may be caused by strong winds and rain, high waves (due to winds), storm surges (due to wind and severe pressure changes), and the potential of spawning tornadoes. tropical cyclones draw in air from a large area and concentrate the water content of that air (from atmospheric moisture and moisture evaporated from water) into precipitation over a much smaller area. this replenishing of moisture-bearing air after rain may cause multi-hour or multi-day extremely heavy rain up to 40 km (25 mi) from the coastline, far beyond the amount of water that the local atmosphere holds at any one time. this in turn can lead to river flooding, overland flooding, and a general overwhelming of local water control structures across a large area.  although their effects on human populations can be devastating, tropical cyclones may play a role in relieving drought conditions, though this claim is disputed. they also carry heat and energy away from the tropics and transport it towards temperate latitudes, which plays an important role in regulating global climate.
+[wikipedia](https://en.wikipedia.org/wiki/tropical%20cyclone)
+```query
+"tropical cyclones"
+```

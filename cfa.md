@@ -1,0 +1,5 @@
+- [[quantitative methods]]
+
+```query
+"cfa"
+```

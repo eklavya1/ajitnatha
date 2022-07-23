@@ -1,0 +1,2 @@
+- د first evidence for Denisovans or Denisova hominins was first discovered in 2008 in a cave in د Altai 山s in Siberia. Analysis of a fossil jawbone containing molars recovered من Baishiya Karst cave in Xiahe, Gansu, China shows Denisovans lived in د Tibetan Plateau some 1,60,000 years ago. This 是 first time evidence of Denisovan presence has been found outside د Denisova cave.
+- 它  是 an early human [[species]]

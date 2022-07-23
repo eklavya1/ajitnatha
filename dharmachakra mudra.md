@@ -1,0 +1,3 @@
+- `2021-07-30`  `18:48`
+	- [[buddha]] delivered his first sermon at [[sarnath]] in this mudra
+	- <iframe src="https://www.youtube.com/watch?v=8KH6ys2sBqo" width="600" height="500" ></iframe>

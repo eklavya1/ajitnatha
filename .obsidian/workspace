@@ -1,0 +1,179 @@
+{
+  "main": {
+    "id": "0b9fecfcb8154362",
+    "type": "split",
+    "children": [
+      {
+        "id": "7861f29e6bb1fce7",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "udemy github course.md",
+            "mode": "source",
+            "backlinks": true,
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "53ddda4fa8847ff4",
+    "type": "split",
+    "children": [
+      {
+        "id": "f3c810bbb38974e4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9f54604310cd1add",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "b96c5e52b8f25cbb",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a09a789eed8f121",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#productivity",
+                "matchingCase": false,
+                "explainSearch": true,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "53917bf6a811b605",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 360.00680351257324,
+    "collapsed": true
+  },
+  "right": {
+    "id": "8c24cd53a941c8b1",
+    "type": "split",
+    "children": [
+      {
+        "id": "8e456630afe3e24b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a3c4a75b4ac48164",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "7c66d3389371883e",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "udemy github course.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "e3bb09c9e968f205",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "udemy github course.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "caac6a1567ce8f58",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "deafe1c4459f6d63",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "udemy github course.md"
+              }
+            }
+          },
+          {
+            "id": "a9d53e4974ba96a1",
+            "type": "leaf",
+            "state": {
+              "type": "Saved Queries View",
+              "state": {}
+            }
+          },
+          {
+            "id": "3a9af20618736605",
+            "type": "leaf",
+            "state": {
+              "type": "review-queue-list-view",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 6
+      }
+    ],
+    "direction": "horizontal",
+    "width": 481,
+    "collapsed": true
+  },
+  "active": "7861f29e6bb1fce7",
+  "lastOpenFiles": [
+    "GIT udemy course.md",
+    "github udemy course kanban.md",
+    "india's bordering countries.md",
+    "pneumonics Ø.md",
+    "afghanistan.md",
+    "2022-07-31.md",
+    "gall_s 法律.md",
+    "youtube whatifalthist.md",
+    "rough.md",
+    "2022-07-23.md"
+  ]
+}

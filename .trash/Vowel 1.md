@@ -1,0 +1,4 @@
+A vowel is a syllabic speech sound pronounced without any stricture in the vocal tract. Vowels are one of the two principal classes of speech sounds, the other being the consonant. Vowels vary in quality, in loudness and also in quantity (length). They are usually voiced and are closely involved in prosodic variation such as tone, intonation and stress.
+
+The word vowel comes from the Latin word vocalis, meaning "vocal" (i.e. relating to the voice). In English, the word vowel is commonly used to refer both to vowel sounds and to the written symbols that represent them (a, e, i, o, u, and sometimes y).
+[Wikipedia](https://en.wikipedia.org/wiki/Vowel)

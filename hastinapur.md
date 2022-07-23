@@ -1,0 +1,3 @@
+- `2021-07-17`  `11:18`
+	- ![[Pasted image 20210717111858.png]]
+	- Hastinapur (lit. 'City of Elephants') is a city in the Meerut district in the Indian state of Uttar Pradesh. Hastinapur, described in Hindu texts such as the Mahabharata and the Puranas as the capital of the Kuru Kingdom, is also mentioned in ancient Jain texts. Hastinapur is located on the right bank of the Ganga river. 

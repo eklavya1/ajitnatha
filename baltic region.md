@@ -1,0 +1,7 @@
+- 04:39 PM 11/7/2021
+	- ![[Pasted image 20210711163900.png]]
+	- https://en.wikipedia.org/wiki/Baltic_states
+	- ![Pagan Lithuanian Baltic sun cross](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Baltic_Cross.JPG/100px-Baltic_Cross.JPG)
+	- ![File:Indo-European migrations.gif](https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Indo-European_migrations.gif/800px-Indo-European_migrations.gif)
+	- [[europe]]
+	- [[USSR]]

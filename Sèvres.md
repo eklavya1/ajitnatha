@@ -1,0 +1,2 @@
+- ![[Pasted image 20210711125601.png]]
+- [[world war 1]]

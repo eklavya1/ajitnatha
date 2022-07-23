@@ -1,0 +1,14 @@
+---
+alias: [2022-06-02,19:26,,,,,,,,,,,]
+---
+[[rigveda]] [[hinduism]]
+table of content
+```toc
+```
+
+[[2022-06-02]] 19:26
+- purana (; sanskrit: पुराण, purāṇa; literally meaning "ancient, old") is a vast genre of indian literature about a wide range of topics, particularly about legends and other traditional lore. the puranas are known for the intricate layers of symbolism depicted within their stories. composed originally in sanskrit but in other indian languages, several of these texts are named after major hindu deities such as vishnu, shiva, brahma and shakti. the puranic genre of literature is found in both hinduism and jainism.the puranic literature is encyclopedic, and it includes diverse topics such as cosmogony, cosmology, genealogies of gods, goddesses, kings, heroes, sages, and demigods, folk tales, pilgrimages, temples, medicine, astronomy, grammar, mineralogy, humor, love stories, as well as theology and philosophy. the content is highly inconsistent across the puranas, and each purana has survived in numerous manuscripts which are themselves inconsistent. the hindu maha puranas are traditionally attributed to "vyasa", but many scholars considered them likely the work of many authors over the centuries; in contrast, most jaina puranas can be dated and their authors assigned.there are 18 mukhya puranas (major puranas) and 18 upa puranas (minor puranas), with over 400,000 verses. the first versions of various puranas were likely to have been composed between 3rd and 10th century ce. the puranas do not enjoy the authority of a scripture in hinduism, but are considered as smritis.they have been influential in the hindu culture, inspiring major national and regional annual festivals of hinduism. their role and value as sectarian religious texts and historical texts has been controversial because all puranas praise many gods and goddesses and "their sectarianism is far less clear cut" than assumed, states ludo rocher. the religious practices included in them are considered vaidika (congruent with vedic literature), because they do not preach initiation into tantra. the bhagavata purana has been among the most celebrated and popular text in the puranic genre, and is, in the opinion of some, of non-dualistic tenor. but, the dualistic school of shriman madhvacharya has a rich and strong tradition of dualistic interpretation of the bhagavata, starting from the bhagavata taatparya nirnaya of the acharya himself and later, commentaries on the commentary.  the chaitanya school also rejects outright any monistic interpretation of the purana. the puranic literature wove with the bhakti movement in india, and both dvaita and advaita scholars have commented on the underlying vedantic themes in the maha puranas.
+[wikipedia](https://en.wikipedia.org/wiki/puranas)
+```query
+"puranas"
+```

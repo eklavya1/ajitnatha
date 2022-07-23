@@ -1,0 +1,2 @@
+- Monsoon current, 也 called monsoon drift, is surface current of د northern Indian Ocean. Unlike د Atlantic and Pacific,  兩 of which 有 strong currents circulating clockwise north of د Equator, د northern Indian Ocean has surface currents that change with د seasonal monsoon.  
+- Hence, monsoon drift is responsible for a change in د regular direction of ocean currents in Indian Ocean.

@@ -1,0 +1,84 @@
+---
+alias: [2022-07-08,02:28,,,,,,,,,,,]
+---
+- [[]]
+table of content
+```toc
+```
+
+- [[2022-07-08]] 02:28
+## suffix
+1. ise
+2. able
+3. ible
+4. ant
+5. ent
+6. ful
+7. iacl
+8. ious
+9. ous
+10. ish
+11. less
+12. ness
+13. age
+14. ance
+15. ence
+16. ation
+17. tration
+18. tation
+19. tion
+20. ion
+21. ism
+22. ist
+23. ity
+24. ment
+25. ship
+26. sion
+27. ure
+28. ate
+29. ify
+30. ing
+31. ize
+32. ise
+33. rize
+## prefix
+1. ante
+2. anti
+3. auto
+4. circum
+5. com
+6. con
+7. dis
+8. epi
+9. equi
+10. extra
+11. hex
+12. infra
+13. inter
+14. intra
+15. macro
+16. micro
+17. mega
+18. mini
+19. mono
+20. multi
+21. non
+22. omni
+23. penta
+24. per
+25. poly
+26. post
+27. pre
+28. prime
+29. pro
+30. quad
+31. retro
+32. semi
+33. hemi
+34. super
+35. sub
+36. trans
+37. tri
+38. kilo
+41. nano
+42. milli

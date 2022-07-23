@@ -1,0 +1,11 @@
+---
+alias: [2022-07-11,12:46,,,,,,,,,,,]
+---
+- [[]]
+table of content
+```toc
+```
+
+- [[2022-07-11]] 12:46
+- Special drawing rights (SDRs) are supplementary foreign exchange reserve assets defined and maintained by the [[International Monetary Fund]] (IMF). SDRs are units of account for the IMF, and not a currency per se. They represent a claim to currency held by IMF member countries for which they may be exchanged. SDRs were created in 1969 to supplement a shortfall of preferred foreign exchange reserve assets, namely gold and U.S. dollars. The ISO 4217 currency code for special drawing rights is XDR and the numeric code is 960.SDRs are allocated by the IMF to countries, and cannot be held or used by private parties. The number of SDRs in existence was around XDR 21.4 billion in August 2009. During the global financial crisis of 2009, an additional XDR 182.6 billion was allocated to "provide liquidity to the global economic system and supplement member countries' official reserves". By October 2014, the number of SDRs in existence was XDR 204 billion. Due to economic stress caused by the COVID-19 pandemic some economists and several finance ministers of poorer countries have called for a new allocation of $4T to support member economies as they seek ways to recover. In March 2021 the G24 and others proposed an allocation of $500B for this purpose. In response, XDR 456.5 billion (about US$650B) was allocated on August 23, 2021.The value of a SDR is based on a basket of key international currencies reviewed by IMF every five years. The weights assigned to each currency in the XDR basket are adjusted to take into account their current prominence in terms of international trade and national foreign exchange reserves. In the review conducted in November 2015, the IMF decided to add the Renminbi (Chinese yuan) to the basket, effective 1 October 2016. Since that date, the XDR basket has consisted of the following five currencies: U.S. dollar 41.73%, euro 30.93%, renminbi (Chinese yuan) 10.92%, Japanese yen 8.33%, British pound sterling 8.09%.
+[Wikipedia](https://en.wikipedia.org/wiki/Special%20drawing%20rights)

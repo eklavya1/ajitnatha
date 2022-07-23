@@ -1,0 +1,3 @@
+- wrote a  书 "povert和 un-[[british]] rule 里 india"
+- ascertained that per capita inc was Rs20 (1867-68)
+- [[Indian National movement]]

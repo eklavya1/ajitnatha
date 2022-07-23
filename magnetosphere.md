@@ -1,0 +1,13 @@
+---
+alias: [2022-06-17,19:48,,,,,,,,,,,]
+---
+- [[geomagnetic storm]]
+table of content
+```toc
+```
+
+- [[2022-06-17]] 19:48
+- In astronomy and planetary science, a **magnetosphere** is a region of space surrounding an astronomical object in which charged particles are affected by that object's magnetic field. It is created by a celestial body with an active interior dynamo.
+
+In the space environment close to a planetary body, the magnetic field resembles a magnetic dipole. Farther out, field lines can be significantly distorted by the flow of electrically conducting plasma, as emitted from the Sun (i.e., the solar wind) or a nearby star. Planets having active magnetospheres, like the Earth, are capable of mitigating or blocking the effects of solar radiation or cosmic radiation, that also protects all living organisms from potentially detrimental and dangerous consequences. This is studied under the specialized scientific subjects of plasma physics, space physics and aeronomy.
+[Wikipedia](https://en.wikipedia.org/wiki/Magnetosphere)

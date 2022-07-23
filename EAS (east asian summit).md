@@ -1,0 +1,3 @@
+- ASEAN + australia,[[china]], [[india]] ，japan, new zealand, republic 的  korea 美国  和  [[mod his 26|russia]]
+- represent 55 % 的 world 的  GDP and 人口  
+- [[G7]]

@@ -1,0 +1,15 @@
+---
+alias: [2022-06-08,20:17,,,,,,,,,,,]
+---
+[[mao zedong]] [[=sapiens]]
+table of content
+```toc
+```
+
+[[2022-06-08]] 20:17
+- the great leap forward (second five year plan) of the people's republic of [[china]] (prc) was an economic and social campaign led by the chinese communist party (ccp) from [[1958]] to [[1962]]. chairman mao zedong launched the campaign to reconstruct the country from an agrarian economy into a communist society through the formation of people's communes. mao decreed that efforts to multiply grain yields and bring industry to the countryside should be increased. local officials were fearful of anti-rightist campaigns and they competed to fulfill or over-fulfill quotas which were based on mao's exaggerated claims, collecting non-existent "surpluses" and leaving farmers to starve to death. higher officials did not dare to report the economic disaster which was being caused by these policies, and national officials, blaming bad [[weather]] for the decline in food output, took little or no action. millions of people died in china during the great leap, with estimates ranging from 15 to 55 million, *making the great chinese famine the largest or second-largest famine in human history*.
+- the major changes which occurred in the lives of rural chinese people included the incremental introduction of mandatory agricultural collectivization. private farming was prohibited, and those people who engaged in it were persecuted and labeled counter-revolutionaries. restrictions on rural people were enforced with public struggle sessions and social pressure, and forced labor was also exacted from people. rural [[industrialization]], while officially a priority of the campaign, saw "its development ... aborted by the mistakes of the great leap forward". the great leap was one of two periods between [[1953]] and [[1976]] in which china's economy shrank. economist dwight perkins argues that "enormous amounts of investment only produced modest increases in production or none at all. ... in short, the great leap was a very expensive disaster".in [[1959]], mao zedong ceded day-to-day leadership to pragmatic moderates like liu shaoqi and deng xiaoping and the ccp studied the damage which was done at conferences which it held in [[1960]] and 1962, especially at the "seven thousand cadres conference". mao did not retreat from his policies; instead, he blamed problems on bad implementation and "rightists" who opposed him. he initiated the socialist education movement in [[1963]] and the cultural revolution in [[1966]] in order to remove opposition and re-consolidate his power. in addition, dozens of dams constructed in zhumadian, henan during the great leap forward collapsed in [[1975]] (under the influence of typhoon nina) and resulted in the 1975 banqiao dam failure, with a death toll which ranged from tens of thousands to 240,000.
+[wikipedia](https://en.wikipedia.org/wiki/great%20leap%20forward)
+```query
+"great leap forward"
+```

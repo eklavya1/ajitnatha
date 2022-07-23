@@ -1,0 +1,27 @@
+{
+  "obsidianCss": false,
+  "tabSize": 7,
+  "showLineNumber": true,
+  "foldIndent": true,
+  "foldHeading": false,
+  "alwaysUpdateLinks": true,
+  "promptDelete": false,
+  "spellcheck": false,
+  "vimMode": false,
+  "strictLineBreaks": true,
+  "defaultViewMode": "preview",
+  "readableLineLength": false,
+  "fileSortOrder": "byModifiedTime",
+  "trashOption": "local",
+  "autoConvertHtml": false,
+  "showFrontmatter": true,
+  "autoPairBrackets": true,
+  "legacyEditor": false,
+  "livePreview": true,
+  "pdfExportSettings": {
+    "pageSize": "A4",
+    "landscape": false,
+    "margin": "2",
+    "downscalePercent": 100
+  }
+}

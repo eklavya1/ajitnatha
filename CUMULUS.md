@@ -1,0 +1,2 @@
+- thick cloudˋcotton wool app 跟 dome-shaped cauliflower top 和 a horihorizontal base
+- ![[Pasted image 20210712155616.png]]

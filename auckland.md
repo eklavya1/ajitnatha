@@ -1,0 +1,6 @@
+- [[new zealand]]
+- ![[Auckland.png]]
+- [[tasman sea]]
+- south [[pacific 海洋]]
+- [[pegasus]] bay
+- great barrier island 🏝 

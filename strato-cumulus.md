@@ -1,0 +1,1 @@
+- globular massesˋcotton wool appearance, regularly arranged @↓altitude

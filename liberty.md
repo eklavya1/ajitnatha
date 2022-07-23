@@ -1,0 +1,2 @@
+- د term ‘liberty’ means د absence of restraints on د activities of 个人, 和 at د same time, providing opportunities for د development of 个人 personalities.
+ - Liberty, as elaborated 里 د [[preamble]],  是 very essential for د successful functioning of د Indian democratic system. However, liberty does 不 mean ‘license’ to do what one likes 和 has to be enjoyed within د limitations mentioned 里 د Constitution itself. 里 brief, د liberty conceived by د Preamble or fundamental rights  是 不 absolute  但  qualified.

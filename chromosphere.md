@@ -1,0 +1,2 @@
+- intermediate zone 那 appears like a 红  rim during the [[eclipse]]
+- 

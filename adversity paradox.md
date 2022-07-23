@@ -1,0 +1,1 @@
+we are never seeking adversity in our lives, 但 when we find ourselves into one.....we tend to grow من it

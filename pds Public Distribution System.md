@@ -1,0 +1,9 @@
+- [[_economics 经济 MOC]]
+- • The Public Distribution System (PDS) is operated under the joint responsibility of the Central and the State Governments.
+ - • The Central Government, through the Food Corporation of India (FCI), has assumed the responsibility for procurement, storage, transportation, and bulk allocation of food grains to the State Governments. The operational responsibility including allocation within the state, identification of eligible families, issue of Ration Cards, and supervision of the functioning of Fair Price Shops (FPSs) (including fixing prices of food grains), etc., rest with the State Governments. Hence statement 1 is correct.
+ - • NFSA covers up to 75% of the rural [[population]] and 50% of the urban [[population]] under Antyodaya Anna Yojana (AAY) and priority households. While AAY households, which constitute the poorest of the poor are entitled to 35 kg of foodgrains per family per month, priority households are entitled to 5 kg per person per month. Corresponding to the all India coverage of 75% and 50% in the rural and urban areas, State-wise coverage under NFSA was determined by the erstwhile Planning [[Commission]] (now NITI Aayog) by using the NSS Household Consumption Survey [[data]] for 2011-12. Since then, the state-wise coverage ratio has not been revised.
+ - Foodgrains under NFSA were to be made available at subsidized prices (Central Issue Prices) of Rs.3/2/1 per kg for [[rice]], wheat, and coarse grains respectively for an initial period of three years from the date of commencement of the Act. Thereafter, prices were to be fixed by the Central Government from time to time, but not exceeding MSP. The government has decided from time to time to continue the above-mentioned subsidized prices under NFSA.
+
+```query
+"Public Distribution System"
+```

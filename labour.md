@@ -1,0 +1,14 @@
+---
+alias: [2022-06-03,00:36,,,,,,,,,,,]
+---
+[[economics 18]] [[4 factors of production]]
+table of content
+```toc
+```
+
+[[2022-06-03]] 00:36
+- childbirth, also known as labour or delivery, is the ending of pregnancy where one or more babies leaves the uterus by passing through the vagina or by caesarean section. in 2015, there were about 135 million births globally. about 15 million were born before 37 weeks of gestation, while between 3% and 12% were born after 42 weeks. in the developed world most deliveries occur in hospitals, while in the developing world most births take place at home with the support of a traditional birth attendant.the most common way of childbirth is a vaginal delivery. it involves three stages of labour: the shortening and opening of the cervix during the first stage, descent and birth of the baby during the second stage, and the delivery of the placenta during the third stage. the first stage begins with crampy abdominal or back pain that lasts around half a minute and occurs every 10 to 30 minutes. the pain becomes stronger and closer together over time. the second stage ends when the infant is fully expelled.  in the third stage, the delivery of the placenta, delayed clamping of the umbilical cord is generally recommended. as of 2014, all major health organisations advise that immediately following vaginal birth, or as soon as the mother is alert and responsive after a caesarean section, that the infant be placed on the mother's chest, termed skin-to-skin contact, delaying routine procedures for at least one to two hours or until the baby has had its first breastfeeding.most babies are born head first; however about 4% are born feet or buttocks first, known as breech. typically the head enters the pelvis facing to one side, and then rotates to face down. during labour, the woman giving birth can generally eat and move around as they like. a number of methods can help with pain, such as relaxation techniques, opioids, and spinal blocks.  while making a cut to the opening of the vagina, known as an episiotomy, is common, it is generally not needed. in 2012, about 23 million deliveries occurred by caesarean section, an operation on the abdomen.each year, complications from pregnancy and childbirth result in about 500,000 birthing deaths, seven million women have serious long-term problems, and 50 million women giving birth have negative health outcomes following delivery. most of these occur in the developing world. specific complications include obstructed labour, postpartum bleeding, eclampsia, and postpartum infection. complications in the baby may include lack of oxygen at birth, birth trauma, prematurity, and infections.
+[wikipedia](https://en.wikipedia.org/wiki/childbirth)
+```query
+"labour"
+```

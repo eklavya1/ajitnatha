@@ -1,0 +1,91 @@
+---
+alias: [,]
+---
+- mother note - [[]] [[]]
+- related note - [[]] [[]]
+- `contemporary events`	- [[]]	- [[]]	- [[]]	- [[]]	- [[]]
+
+- [[2021-11-05]]  `01:41` _related_ [[]] | [[]] | [[]] # # #
+- kalasua
+- meena
+- dayama
+- charpota
+- ahari
+- parmar
+- garasiya
+- garasia
+- bhagora
+- damor
+- patel
+- patela
+- bheel [[bhils]]
+- maida
+- modiya
+- solanki
+- kharadi
+- dindor
+- sarpota
+- roat
+- dhuha
+- pandwala
+- dama
+- pargi
+- phanat
+- katara
+- gamar
+- nanama
+- malviya
+- bamniya
+- koted
+- masar
+- harmor
+- kharadi
+- kumari
+- bodat
+- doda
+- gameti
+- pandor
+- manat
+- manohar
+- ninama
+- dendor
+- harmor
+- muniya
+- bhuriya
+- asoda
+- khant
+- sarel
+- salvi
+- bhagora
+- guda
+- varhat
+- khadiya
+- herolbhai
+- kasota
+- kher
+- ghatiya
+- pagi
+- bargot
+- maliwad
+- vadera
+- vaghela
+- bhudara
+- modia
+- barod
+- chanana
+- dodiyar
+- faleja
+- fanat
+- lasun
+- rana
+- taved
+- kalauwa
+- fera
+- rathore ??????? its true #doubt 
+- mal
+- khant
+
+
+```query
+"st--candidates"
+```

@@ -1,0 +1,11 @@
+---
+alias: [2022-06-19,05:12,,,,,,,,,,,]
+---
+- [[]]
+table of content
+```toc
+```
+
+- [[2022-06-19]] 05:12
+- The **golden horde**, self-designated as Ulug Ulus, lit. 'Great State' in Turkic, was originally a Mongol and later Turkicized khanate established in the [[13th century]] and originating as the northwestern sector of the Mongol Empire. With the fragmentation of the Mongol Empire after [[1259]] it became a functionally separate khanate. It is also known as the Kipchak Khanate or as the Ulus of Jochi.After the death of Batu Khan (the founder of the Golden Horde) in [[1255]], his dynasty flourished for a full century, until [[1359]], though the intrigues of Nogai instigated a partial civil war in the late 1290s. The Horde's military power peaked during the reign of Uzbeg Khan ([[1312]]–[[1341]]), who adopted Islam. The territory of the Golden Horde at its peak extended from Siberia and Central Asia to parts of Eastern Europe from the Urals to the Danube in the west, and from the Black Sea to the Caspian Sea in the south, while bordering the Caucasus Mountains and the territories of the Mongol dynasty known as the Ilkhanate.The khanate experienced violent internal political disorder beginning in [[1359]], before it briefly reunited ([[1381]]–[[1395]]) under Tokhtamysh. However, soon after the [[1396]] invasion of Timur, the founder of the Timurid Empire, the Golden Horde broke into smaller Tatar khanates which declined steadily in power. At the start of the 15th century, the Horde began to fall apart. By 1466, it was being referred to simply as the "Great Horde". Within its territories there emerged numerous predominantly Turkic-speaking khanates. These internal struggles allowed the northern vassal state of Muscovy to rid itself of the "Tatar Yoke" at the Great Stand on the Ugra River in [[1480]]. The Crimean Khanate and the Kazakh Khanate, the last remnants of the Golden Horde, survived until [[1783]] and [[1847]] respectively.
+[Wikipedia](https://en.wikipedia.org/wiki/Golden%20Horde)

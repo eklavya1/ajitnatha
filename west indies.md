@@ -1,0 +1,2 @@
+- ![[Pasted image 20210706212119.png]]
+- La Soufrière (volcano) - ![[Pasted image 20210706212207.png]] ^f52269

@@ -1,0 +1,16 @@
+---
+alias: [2022-04-27,14:03,,,,,,,,,,,]
+---
+[[madam bhikaji cama]]
+table of content
+```toc
+```
+
+[[2022-04-27]] 14:03
+Parsis () or Parsees (lit. 'Persian' in the Persian language) are an ethnoreligious group of the Indian subcontinent whose religion is Zoroastrianism. Their ancestors migrated to the region from Sassanid Iran following its conquest by Arab Muslims under the Rashidun Caliphate in the 7th century CE. They are the first of two such groups to have done so, with the other being Iranis, who migrated to the subcontinent many centuries later following the rise to power of the Qajar dynasty in 18th-century Iran. According to a Zoroastrian epic, Qissa-i Sanjan, Parsis continued to migrate from Iran (also known as Persia) to Gujarat in between the 8th and 10th centuries CE, where they were given refuge to escape religious persecution by Muslims during and after the early Muslim conquests.At the time of the Muslim conquest of Persia, the dominant religion of the region was Zoroastrianism, an Iranian religion that also served as the official state religion of the Sassanid Empire. Many notable Iranian figures such as Babak Khorramdin actively rebelled against the Rashidun army and the later Islamic caliphates for almost 200 years, while others chose to preserve their religious identities by fleeing from Iran to India during this time.The word Parsi is derived from the Persian language, and literally translates to Persian (Modern Standard Persian: پارسیان, romanized: 'Pārsiān' – i.e. 'Pārsi'), effectively identifying the Parsi people as pre-Islamic Zoroastrian ethnic Persians in India and Pakistan. Farsi, a modern word that is used locally in Persian-speaking regions as an endonym for the Persian language, is the Arabized form of the word Parsi; the Persian language sees widespread use in Iran, Afghanistan, Tajikistan and other regions of the former Persian empires.
+
+The long presence of the Parsis in the Indian subcontinent distinguishes them from the much more recently-arrived and smaller Zoroastrian Indian community of Iranis, who are mostly descendants of Iranians who fled the repression of the Qajar dynasty and the general socio-political tumult of late 19th- and early 20th-century Iran. D. L. Sheth, the former director of the Centre for the Study of Developing Societies (CSDS), lists Indian communities that constituted the middle class and were traditionally "urban and professional" (following professions such as doctors, lawyers, teachers, engineers, etc.) immediately after Indian independence in 1947. This list included the Kashmiri Pandits, the Nagar Brahmins from Gujarat, the Brahmins from Southern India, the Punjabi Khatris and Kayastha from northern India, the Chitpavans and CKPs from Maharashtra; Bengali Probasis and Bhadraloks, the Parsis, as well as the upper echelons of the Indian Muslim and Indian Christian communities throughout the country. According to Pavan K. Varma, "Education was a common thread that bound together this pan-Indian elite"; almost all of the members of these communities could read and write in English and were educated beyond regular schooling institutions.
+[Wikipedia](https://en.wikipedia.org/wiki/Parsis)
+```query
+"parsi"
+```

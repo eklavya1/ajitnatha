@@ -1,0 +1,5 @@
+- `2021-07-17`  `02:26`
+	- 被 nadeem hasnain
+	- 大法官 roy - father ˋ 印度 ethnology
+	- [[physical 人类学]]
+	- [[archaeological 人类学]]

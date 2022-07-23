@@ -1,0 +1,5 @@
+- Kalahari is a desert because it lies in د tropics. Many of د 世界 的 largest and most famous deserts are located in two belts 中 15° and 30°N and S latitude. Included in this group of deserts are د Sahara, د 世界 's largest desert, and د Libyan Desert of North Africa. In د Southern Hemisphere, deserts that fall into this group include د Kalahari Desert of Africa and د Great Sandy Desert of Australia. د location of these deserts is controlled by a large-scale atmospheric circulation pattern driven by energy من د Sun. د Sun heats equatorial regions 更 than 高 -latitude areas, which causes large-scale atmospheric upwelling near د equator. As this air rises, it becomes less dense and can hold less moisture, which helps form large thunderstorms in equatorial areas. This drier air then moves away من د equator at 高 altitudes, cooling and drying 更 as it moves,until it eventually forms two circum-global down welling air 中 15° and 30° N and S latitude.
+
+```query
+"kalahari desert"
+```

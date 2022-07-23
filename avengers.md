@@ -1,0 +1,7 @@
+- [[2021-10-30]] `23:08`
+	- marvel comic [[universe]] _related_ [[Geo 04 Universe]]
+- `2021-10-01` `16:31` [[lego]]
+- infinity wars ^cda69e
+- endgame
+- `2021-07-18` `23:08`
+- [[tony stark]]

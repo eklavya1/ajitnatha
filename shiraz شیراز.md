@@ -1,0 +1,2 @@
+- `2021-07-14`  `17:47`
+	- cultural capital ˋ [[iran]]
